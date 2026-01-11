@@ -70,7 +70,9 @@
                 },
                 {
                   "section": "Leader",
-                  "style": false
+                  "style": {
+                    "width": "10%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -85,7 +87,9 @@
                 },
                 {
                   "section": "Gate",
-                  "style": false
+                  "style": {
+                    "width": "10%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -96,11 +100,15 @@
               "content": [
                 {
                   "section": "IKZ",
-                  "style": false
+                  "style": {
+                    "width": "10%"
+                  }
                 },
                 {
                   "section": "Mana",
-                  "style": false
+                  "style": {
+                    "width": "20vw"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
