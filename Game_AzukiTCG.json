@@ -219,14 +219,14 @@
             "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          }
+          },
 		  "IKZ": {
 			"title": "IKZ",
 			"isHidden": "yes",
 			"height": "MEDIUM",
 			"alignment": "DECK",
 			"displayedTitle": "Extra deck",
-}
+		  }
         }
       }
     }
