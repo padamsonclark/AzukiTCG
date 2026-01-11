@@ -100,19 +100,21 @@
             {
               "direction": "column",
               "style": {
-                "width": "12vh"
+                "width": "SMALL"
               },
               "content": [
                 {
                   "section": "Leader",
                   "style": {
-                    "Height": "SMALL"
+                    "Height": "SMALL",
+                    "width": "SMALL"
                   }
                 },
                 {
                   "section": "Gate",
                   "style": {
-                    "Height": "SMALL"
+                    "Height": "SMALL",
+                    "width": "SMALL"
                   }
                 },
                 {
