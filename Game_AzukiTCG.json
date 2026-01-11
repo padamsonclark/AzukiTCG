@@ -11,7 +11,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://padamsonclark.github.io/AzukiTCG/CardList.json",
-    "cardBack": ""
+    "cardBack": "https://padamsonclark.github.io/AzukiTCG/Images/CardBack.json"
   },
   "deckBuilding": {
     "mainFilters": [
