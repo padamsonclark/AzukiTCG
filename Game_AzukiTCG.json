@@ -66,12 +66,14 @@
               "content": [
                 {
                   "section": "The_Garden",
-                  "style": false
+                  "style": {
+                    "padding": "10%"
+                  }
                 },
                 {
                   "section": "Leader",
                   "style": {
-                    "width": "8%"
+                    "width": "10%"
                   }
                 }
               ],
@@ -83,12 +85,14 @@
               "content": [
                 {
                   "section": "The_Alley",
-                  "style": false
+                  "style": {
+                    "padding": "10%"
+                  }
                 },
                 {
                   "section": "Gate",
                   "style": {
-                    "width": "8%"
+                    "width": "10%"
                   }
                 }
               ],
@@ -101,7 +105,7 @@
                 {
                   "section": "IKZ",
                   "style": {
-                    "width": "8%"
+                    "width": "10%"
                   }
                 },
                 {
@@ -230,23 +234,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Sideboard": {
-            "isDefaultSection": true,
-            "title": "Sideboard",
-            "isHidden": "no",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Mana": {
             "title": "Mana",
             "isHidden": "no",
@@ -336,7 +323,7 @@
             "displayedTitle": "IKZ Pile",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
