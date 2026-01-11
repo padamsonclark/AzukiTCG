@@ -1,0 +1,103 @@
+{
+  "game": "Azuki TCG",
+  "id": "bbc8e1e7-f526-4c59-9848-50c8643c411e",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "Spell": [
+      {
+        "count": 2,
+        "id": "STT02-014"
+      },
+      {
+        "count": 2,
+        "id": "STT02-016"
+      },
+      {
+        "count": 4,
+        "id": "STT02-015"
+      },
+      {
+        "count": 2,
+        "id": "STT02-017"
+      }
+    ],
+    "Sideboard": [],
+    "IKZ": [
+      {
+        "count": 10,
+        "id": "IKZ-001"
+      }
+    ],
+    "Gate": [
+      {
+        "count": 1,
+        "id": "STT02-002"
+      }
+    ],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "STT02-001"
+      }
+    ],
+    "categoriesOrder": [
+      "Leader",
+      "Gate",
+      "Spell",
+      "Entity",
+      "IKZ"
+    ],
+    "Entity": [
+      {
+        "count": 4,
+        "id": "STT02-003"
+      },
+      {
+        "count": 4,
+        "id": "STT02-005"
+      },
+      {
+        "count": 4,
+        "id": "STT02-007"
+      },
+      {
+        "count": 4,
+        "id": "STT02-006"
+      },
+      {
+        "count": 4,
+        "id": "STT02-008"
+      },
+      {
+        "count": 4,
+        "id": "STT02-009"
+      },
+      {
+        "count": 4,
+        "id": "STT02-011"
+      },
+      {
+        "count": 2,
+        "id": "STT02-010"
+      },
+      {
+        "count": 2,
+        "id": "STT02-013"
+      },
+      {
+        "count": 4,
+        "id": "STT02-004"
+      },
+      {
+        "count": 4,
+        "id": "STT02-012"
+      }
+    ]
+  },
+  "createdAt": "2026-01-11T15:53:13.481Z",
+  "title": "Water Starter",
+  "lastModifiedAt": "2026-01-11T16:24:48.216Z",
+  "cardCount": 62
+}
