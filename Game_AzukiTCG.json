@@ -119,9 +119,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Gate",
-          "Deck",
-          "IKZ"
+          "Gate"
         ],
         "autoPlayFromHand": {
           "Entity": "Stack",
@@ -139,13 +137,12 @@
             "height": "HUGE",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Stack"
+            "isGroupForbidden": true
 		  },
           "Mana": {
             "title": "Mana",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -225,9 +222,9 @@
 		  "IKZ": {
             "title": "IKZ",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "DECK",
-            "displayedTitle": "Extra deck"
+            "displayedTitle": "IKZ Pile"
 		  }
         }
       }
