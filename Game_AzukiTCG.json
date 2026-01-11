@@ -19,15 +19,12 @@
       "Type",
       "Element",
       "Cost",
-      "Attack",
-      "Health",
-      "Gate Power",
       "Subtype"
     ],
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "",
+        "gameplay": "Classic",
         "customCategories": [
           "Leader",
           "Gate",
