@@ -134,7 +134,7 @@
             "title": "Hand",
             "isHidden": "opponent-only",
             "height": "DEFAULT",
-            "alignment": "END",
+            "alignment": "CENTER",
             "autoPayFrom": true,
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
