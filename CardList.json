@@ -3320,7 +3320,7 @@
     ]
   },
   "STT03-001": {
-    "id": "STT03-01",
+    "id": "STT03-001",
     "isToken": false,
     "face": {
       "front": {
@@ -3332,7 +3332,6 @@
     },
     "name": "Bobu, Leader",
     "type": "Leader",
-
     "Element": "Earth",
     "Subtype": [
       "Bobu",
@@ -3341,7 +3340,7 @@
     ]
   },
   "STT03-002": {
-    "id": "STT03-02",
+    "id": "STT03-002",
     "isToken": false,
     "face": {
       "front": {
@@ -3359,7 +3358,7 @@
     ]
   },
   "STT03-003": {
-    "id": "STT03-03",
+    "id": "STT03-003",
     "isToken": false,
     "face": {
       "front": {
@@ -3383,7 +3382,7 @@
     ]
   },
   "STT03-004": {
-    "id": "STT03-04",
+    "id": "STT03-004",
     "isToken": false,
     "face": {
       "front": {
@@ -3407,7 +3406,7 @@
     ]
   },
   "STT03-005": {
-    "id": "STT03-05",
+    "id": "STT03-005",
     "isToken": false,
     "face": {
       "front": {
@@ -3430,7 +3429,7 @@
     ]
   },
   "STT03-006": {
-    "id": "STT03-06",
+    "id": "STT03-006",
     "isToken": false,
     "face": {
       "front": {
