@@ -3379,7 +3379,7 @@
       }
     },
     "name": "Mizuki",
-    "type": false,
+    "type": "Entity",
     "cost": "5",
     "Attack": "3",
     "Health": "4",
