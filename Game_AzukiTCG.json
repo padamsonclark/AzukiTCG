@@ -115,10 +115,8 @@
         "autoPlayFromHand": {
           "Entity": "Stack",
           "Weapon": "Stack",
-          "Spell": "Stack"
-        },
-        "autoPlayFromStack": {
-          "IKZ": "Mana"
+          "Spell": "Stack",
+		  "IKZ": "Mana"
         },
         "sectionsDict": {
           "Stack": {
