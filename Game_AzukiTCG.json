@@ -83,7 +83,7 @@
                     {
                       "section": "IKZ",
                       "style": {
-                        "width": "12vh"
+                        "width": "SMALL"
                       }
                     },
                     {
@@ -99,7 +99,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "12vh"
+                "width": "SMALL"
               },
               "content": [
                 {
