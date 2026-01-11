@@ -57,62 +57,60 @@
           "IKZ"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
                   "section": "The_Garden",
                   "style": {
-                    "padding": "10%"
+                    "height": "12vw"
                   }
                 },
-                {
-                  "section": "Leader",
-                  "style": {
-                    "width": "10%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "row",
-              "style": false,
-              "content": [
                 {
                   "section": "The_Alley",
                   "style": {
-                    "padding": "10%"
+                    "height": "12vw"
                   }
                 },
                 {
-                  "section": "Gate",
-                  "style": {
-                    "width": "10%"
-                  }
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "IKZ",
+                      "style": {
+                        "width": "12vh"
+                      }
+                    },
+                    {
+                      "section": "Mana",
+                      "style": {
+                        "width": "30%"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
             },
             {
-              "direction": "row",
-              "style": false,
+              "direction": "column",
+              "style": {
+                "width": "12vh"
+              },
               "content": [
                 {
-                  "section": "IKZ",
-                  "style": {
-                    "width": "10%"
-                  }
+                  "section": "Leader",
+                  "style": false
                 },
                 {
-                  "section": "Mana",
-                  "style": {
-                    "width": "32%"
-                  }
+                  "section": "Gate",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -231,6 +229,23 @@
             "noAutoPayTo": true,
             "displayedTitle": "Removed hidden",
             "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
