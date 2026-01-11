@@ -9,13 +9,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-001_Penny_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Penny",
@@ -39,13 +32,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-002_Healing-Flutter_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Healing Flutter",
@@ -65,13 +51,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-003_Black-Jade-Courier_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -97,13 +76,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-004_Alley-Thug_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Alley Thug",
@@ -127,13 +99,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-005_Caravan-Guard_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -159,13 +124,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-006_Gus_E_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Gus",
@@ -189,13 +147,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-007_Johnny_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -221,13 +172,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-008_Rainy-Day-Assassin_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Rainy Day Assassin",
@@ -251,13 +195,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-009_The-Red-Bean_S_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "The Red Bean",
@@ -280,13 +217,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-010_JD_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -312,13 +242,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-011_Rooftop-Hunter_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Rooftop Hunter",
@@ -341,13 +264,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-012_Ed_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -372,13 +288,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-013_Gou-the-Iron-Judge_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Gou the Iron Judge",
@@ -401,13 +310,6 @@
         "type": "Entity",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-014_Trade-Guild-Cavalry_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -433,13 +335,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-015_Mo_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Mo",
@@ -464,13 +359,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-016_Sleight-of-Hand_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Sleight of Hand",
@@ -493,13 +381,6 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-017_Hook-Sword-Strike_S_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -554,13 +435,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-019_Jay_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Jay",
@@ -583,13 +457,6 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-020_Power-of-Friendship_S_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -615,13 +482,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-021_Mizuto_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Mizuto",
@@ -644,13 +504,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-022_Mirage-Frog_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -677,13 +530,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-023_Maho_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Maho",
@@ -706,13 +552,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-024_Fumiko_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -738,13 +577,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-025_Lighthouse-Keeper_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lighthouse Keeper",
@@ -768,13 +600,6 @@
         "type": "Entity",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-026_Moonlit-Crane_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -801,13 +626,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-027_Kaiya-Mizumi_E_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Kaiya Mizumi",
@@ -830,13 +648,6 @@
         "type": "Entity",
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-028_Soryu-no-Rin_E_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -862,13 +673,6 @@
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/AZK01-028A_Soryu-no-Rin_E_SR_Die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Sōryū no Rin",
@@ -893,13 +697,6 @@
         "cost": 0,
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-029_Aquatic-Veil_S_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Aquatic Veil",
@@ -922,13 +719,6 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-030_Lotus-of-Paradise_S_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -954,13 +744,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-031_Tidal-Insight_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Tidal Insight",
@@ -984,13 +767,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-032_Rippling-Recall_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Rippling Recall",
@@ -1013,13 +789,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-033_Elder-Hoshin_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1046,13 +815,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-034_Kira_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Kira",
@@ -1075,13 +837,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-035_Raimaru-the-Stolen_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1108,13 +863,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-036_Denmu_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Denmu",
@@ -1138,13 +886,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-037_Stormcaller-Tenkichi_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1170,13 +911,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-038_Riven-Flashborne_E_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Riven Flashborne",
@@ -1199,13 +933,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-039_Piko_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1230,13 +957,6 @@
         "type": "Entity",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-040_Black-Jade-Vault-Master_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1263,13 +983,6 @@
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-041_Wu-Cha_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Wu Cha",
@@ -1294,13 +1007,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-042_Thunderclap_S_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Thunderclap",
@@ -1324,13 +1030,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/AZK01-042A_Thunderclap_S_SR_TEX2_Die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Thunderclap",
@@ -1353,13 +1052,6 @@
         "type": "Weapon",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-043_Stormglass-Daggers_W_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1385,13 +1077,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-044_Lightning-Kanabo_W_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lightning Kanabō",
@@ -1414,13 +1099,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-045_Treetop-Scout_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1445,13 +1123,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-046_Mina-the-Geomancer_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Mina the Geomancer",
@@ -1474,13 +1145,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-047_Shiko-the-Priestess_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1505,13 +1169,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-048_Kale_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Kale",
@@ -1535,13 +1192,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-049_Lone-Journeyman_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lone Journeyman",
@@ -1564,13 +1214,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-050_Shroom-Tender_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1596,13 +1239,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-051_Chillax_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Chillax",
@@ -1627,13 +1263,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-052_Yojin_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Yojin",
@@ -1656,13 +1285,6 @@
         "type": "Entity",
         "cost": "7",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-053_Geodust-Smuggler_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1687,13 +1309,6 @@
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-054_Teb-Fea_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Teb Fea",
@@ -1717,13 +1332,6 @@
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/AZK01-054A_Teb-Fea_E_SR_Die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Teb Fea",
@@ -1746,13 +1354,6 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-055_Earth-Orb_S_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1778,13 +1379,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-056_Glass-Blower-Hokuto_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Glass Blower, Hokuto",
@@ -1809,13 +1403,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-057_Lounge-Siren-Saeko_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lounge Siren, Saiko",
@@ -1838,13 +1425,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-058_Black-Jade-Warlord_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1871,13 +1451,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-059_Spice_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Spice",
@@ -1898,13 +1471,6 @@
         "type": "Entity",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-060_Scarlett_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1929,13 +1495,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-061_Firebrand-Renji_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Fire Brand Renji",
@@ -1958,13 +1517,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-062_Pekiro_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -1990,13 +1542,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-063_Enzo_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Enzo",
@@ -2020,13 +1565,6 @@
         "type": "Entity",
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-064_Zero_E_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2052,13 +1590,6 @@
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/AZK01-064A_Zero_E_SR_Die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Zero",
@@ -2082,13 +1613,6 @@
         "type": "Spell",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-065_Fire-Orb_S_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2114,13 +1638,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-066_Firestorm_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Firestorm",
@@ -2143,13 +1660,6 @@
         "type": "Spell",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-087_Mizuryuus-Torrent_S_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2174,13 +1684,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-088_Pulled-Under_S_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Pulled Under",
@@ -2203,13 +1706,6 @@
         "type": "Entity",
         "cost": "7",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-089_Mizuryuu-Fist-Master_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2236,13 +1732,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-090_Priestess-of-the-Mists_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Priestess of the Mists",
@@ -2266,13 +1755,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-091_Bubble-Adept_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2298,13 +1780,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-092_Lotus-of-Reflection_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lotus of Reflection",
@@ -2328,13 +1803,6 @@
         "type": "Entity",
         "cost": "7",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-093_Naiyara-the-Tideweaver_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2360,13 +1828,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-094_Hidden-Dagger_W_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Hidden Dagger",
@@ -2390,13 +1851,6 @@
         "type": "Weapon",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-095_Stormglass-Katana_W_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2422,13 +1876,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-096_Ninpo-Thunderstep_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Ninpō: Thunderstep",
@@ -2451,13 +1898,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-097_Black-Jade-Pawnbroker_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2484,13 +1924,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-098_Arms-Dealer-Kin_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Arms Dealer, Kin",
@@ -2514,13 +1947,6 @@
         "type": "Entity",
         "cost": "7",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-099_Raikos-Wrath-Shin_E_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2547,13 +1973,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-100_Raizans-Riposte_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Raizan's Riposte",
@@ -2578,13 +1997,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-101_Sand-Stands-Still_S_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Sand Stands Still",
@@ -2607,13 +2019,6 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-102_Oathstone_S_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2638,13 +2043,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-103_Dropline-Station_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Dropline Station",
@@ -2667,13 +2065,6 @@
         "type": "Entity",
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-104_Sanzus-Envoy_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2699,13 +2090,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-105_Prickly-Tumbleweed_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Prickly Tumbleweed",
@@ -2728,13 +2112,6 @@
         "type": "Entity",
         "cost": "10",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-106_Lord-of-Sands-Osunanami_E_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2760,13 +2137,6 @@
         "cost": 0,
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-107_Offering-to-Stillstone_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Offering to Stillstone",
@@ -2790,13 +2160,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-108_Crushing-Weight_S_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Crushing Weight",
@@ -2819,13 +2182,6 @@
         "type": "Entity",
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-109_Rock-Sloth_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2851,13 +2207,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-110_Gluttonous-Devourer-Kasha_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Gluttonous Devourer, Kasha",
@@ -2881,13 +2230,6 @@
         "type": "Gate",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-111_Black-Jade-Decoy_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2914,13 +2256,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-112_Enrai-Shakunetsu_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Enrai Shakunetsu",
@@ -2944,13 +2279,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-113_Cinderwake-Pursuer_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -2976,13 +2304,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-114_Omen-Peddler_E_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Omen Peddler",
@@ -3006,13 +2327,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-115_Crazed-Arsonist_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3038,13 +2352,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-116_Tenmoku-Daiki_E_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Tenmoku Daiki",
@@ -3069,13 +2376,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-117_Ignition-Pact_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Ignition Pact",
@@ -3098,13 +2398,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-118_Bandit-Ringleader_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3130,13 +2423,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-IKZ-001_IKZ!_IKZ_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "IKZ",
@@ -3157,13 +2443,6 @@
         "type": "IKZ",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/IKZ-001A_IKZ!_IKZ_Die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3186,13 +2465,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-IKZ-002_IKZ!_IKZ-Token_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "IKZ Token",
@@ -3213,13 +2485,6 @@
         "type": "IKZ",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/IKZ-002A_IKZ!_IKZ-Token_Die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3242,13 +2507,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/AZP-001_IKZ!_IKZ-Token-AX-Participation_Die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "IKZ Token",
@@ -3269,13 +2527,6 @@
         "type": "Leader",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-001_Raizan_L_L_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3300,13 +2551,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT01-001A_Raizan_L_AA_Die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Raizan, Leader",
@@ -3329,13 +2573,6 @@
         "type": "Gate",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-002_Surge-Gate_G_G_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3360,13 +2597,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT01-002A_Surge-Gate_G_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Surge Gate",
@@ -3389,13 +2619,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-003_Crate-Rat-Kurobo_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3421,13 +2644,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-004_Black-Jade-Recruit_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Black Jade Recruit",
@@ -3452,13 +2668,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-005_Alpine-Prowler_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Alpine Prowler",
@@ -3481,13 +2690,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-006_Silver-Current-Haruhi_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3513,13 +2715,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-007_Alley-Guy_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Alley Guy",
@@ -3543,13 +2738,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-008_Black-Jade-Crewleader_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3575,13 +2763,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-009_Mastersmith-Yamada_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Mastersmith Yamada",
@@ -3604,13 +2785,6 @@
         "type": "Entity",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-010_Indra_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3636,13 +2810,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-011_Raizan_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Raizan",
@@ -3666,13 +2833,6 @@
         "type": "Entity",
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/STT01-011A_Raizan_E_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3698,13 +2858,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-012_Lightning-Shuriken_W_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lightning Shuriken",
@@ -3728,13 +2881,6 @@
         "type": "Weapon",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-013_Black-Jade-Dagger_W_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3760,13 +2906,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-014_Tenshin_W_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Tenshin",
@@ -3790,13 +2929,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-015_Tenraku_W_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Tenraku",
@@ -3819,13 +2951,6 @@
         "type": "Weapon",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-016_Ikazuchi_W_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3851,13 +2976,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/STT01-016A_Ikazuchi_W_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Ikazuchi",
@@ -3881,13 +2999,6 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-017_Lightning-Orb_S_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3913,13 +3024,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-001_Shao_L_L_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Shao, Leader",
@@ -3942,13 +3046,6 @@
         "type": "Leader",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT02-001A_Shao_L_AA_Die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -3973,13 +3070,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-002_Hydromancy-Gate_G_G_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Hydromancy Gate",
@@ -4003,13 +3093,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT02-002A_Hydromancy-Gate_G_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Hydromancy Gate",
@@ -4032,13 +3115,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-003_Hayabusa-Itto_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4064,13 +3140,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-004_Rei_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Rei",
@@ -4094,13 +3163,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-005_Hayabusa-Saburo_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Hayabusa Saburo",
@@ -4123,13 +3185,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-006_Foamback-Crab_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4156,13 +3211,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-007_Benzai-the-Merchant_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Benzai the Merchant",
@@ -4188,13 +3236,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-008_Serene-Fist-Misaki_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Serene Fist, Misaki",
@@ -4217,13 +3258,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-009_Aya_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4249,13 +3283,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-010_Selis-of-the-Shore_E_R_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Selis of the Shore",
@@ -4279,13 +3306,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-011_Bubblemancer_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Bubblemancer",
@@ -4308,13 +3328,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-012_Young-Shao_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4340,13 +3353,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-013_Mizuki_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Mizuki",
@@ -4370,13 +3376,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/STT02-013A_Mizuki_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Mizuki",
@@ -4399,13 +3398,6 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-014_Chilling-Water_S_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4431,13 +3423,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-015_Commune-with-Water_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Commune with Water",
@@ -4460,13 +3445,6 @@
         "type": "Spell",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-016_Water-Orb_S_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4492,13 +3470,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-017_Shaos-Perseverance_S_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Shao's Perseverance",
@@ -4523,13 +3494,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/STT02-017A_Shaos-Perseverance_S_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Shao's Perseverance",
@@ -4553,13 +3517,6 @@
         "type": "Leader",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-001_Bobu_L_L_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4586,13 +3543,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-002_Stonehaven-Gate_G_G_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Stonehaven Gate",
@@ -4615,13 +3565,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-003_Koyama-Farm-Potter_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4647,13 +3590,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-004_Sloth-Scarecrow_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Sloth Scarecrow",
@@ -4678,13 +3614,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-005_Wobbly-Cabbage-Cart_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Wobbly Cabbage Cart",
@@ -4708,13 +3637,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-006_Cactus-Farmer_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Cactus Farmer",
@@ -4737,13 +3659,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-007_Koyama-Farm-Caretaker_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4769,13 +3684,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-008_Midnight-Courier_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Midnight Courier",
@@ -4798,13 +3706,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-009_Warding-Totem_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4831,13 +3732,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-010_Shroommancer_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Shroommancer",
@@ -4860,13 +3754,6 @@
         "type": "Entity",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-011_Koyama-Farm-Plowman_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4893,13 +3780,6 @@
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-012_Miharu-of-the-White-Bloom_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Miharu of the White Bloom",
@@ -4924,13 +3804,6 @@
         "cost": "7",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-013_Stone-Masked-Ancient_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Stone Masked Ancient",
@@ -4954,13 +3827,6 @@
         "type": "Entity",
         "cost": "8",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-014_Sandcoil-Python_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -4987,13 +3853,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-015_Jar-of-Beans_S_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Jar of Beans",
@@ -5016,13 +3875,6 @@
         "type": "Spell",
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-016_Quicksand_S_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5047,13 +3899,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-017_Sprout-of-Fortune_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Sprout of Fortune",
@@ -5076,13 +3921,6 @@
         "type": "Leader",
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-001_Zero_L_L_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5108,13 +3946,6 @@
         "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-002_Ragefire-Gate_G_G_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Ragefire Gate",
@@ -5137,13 +3968,6 @@
         "type": "Entity",
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-003_Cinderwake-Seer_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5169,13 +3993,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-004_Fanatic-Kindler_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Fanatic Kindler",
@@ -5199,13 +4016,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-005_Ruby_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Ruby",
@@ -5228,13 +4038,6 @@
         "type": "Entity",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-006_Wolf-Cub_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5260,13 +4063,6 @@
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-007_Enraged-Howler_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Enraged Howler",
@@ -5291,13 +4087,6 @@
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-008_Lady-Emberheart_E_UC_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Lady Emberheart",
@@ -5320,13 +4109,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-009_Cinderwake-Ritualist_E_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5351,13 +4133,6 @@
         "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-010_Reckless-Tinkerer_E_C_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5384,13 +4159,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-011_Scorchland-Raven_E_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Scorchland Raven",
@@ -5413,13 +4181,6 @@
         "type": "Entity",
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-012_Spiteful-Raider_E_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5445,13 +4206,6 @@
         "cost": "5",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-013_Kurai-the-Volcano_E_SR_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Kurai the Volcano",
@@ -5475,13 +4229,6 @@
         "type": "Entity",
         "cost": "6",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-014_Scorchveil-Shinobi-Suzuka_E_SR_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5507,13 +4254,6 @@
         "cost": "1",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-015_Detonation-Pact_S_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "isHorizontal": false
       }
     },
     "name": "Detonation Pact",
@@ -5536,13 +4276,6 @@
         "type": "Spell",
         "cost": "2",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-016_Collateral-Burst_S_UC_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
@@ -5567,13 +4300,6 @@
         "type": "Spell",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-017_Wrath-of-Sinder_S_R_die.jpg",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
         "isHorizontal": false
       }
     },
