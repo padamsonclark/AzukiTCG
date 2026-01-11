@@ -68,15 +68,13 @@
                 {
                   "section": "The_Garden",
                   "style": {
-                    "Height": "SMALL",
-                    "color": "green"
+                    "Height": "SMALL"
                   }
                 },
                 {
                   "section": "The_Alley",
                   "style": {
-                    "Height": "SMALL",
-                    "color": "gray"
+                    "Height": "SMALL"
                   }
                 },
                 {
@@ -102,7 +100,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "12vh"
+                "width": "11vh"
               },
               "content": [
                 {
