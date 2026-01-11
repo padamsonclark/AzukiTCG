@@ -114,6 +114,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
+		  "IKZ",
           "Gate"
         ],
         "autoPlayFromHand": {
@@ -136,7 +137,7 @@
 		  },
           "Mana": {
             "title": "Mana",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
