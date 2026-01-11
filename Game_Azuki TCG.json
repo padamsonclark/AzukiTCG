@@ -1,0 +1,234 @@
+{
+  "name": "Azuki TCG",
+  "menuBackgroundImage": "https://pwywekvounseunypnskt.supabase.co/storage/v1/object/public/article-images/covers/cover-1766006690175-swjo7b.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://tcg.azuki.com/opengraph.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Name",
+      "Type",
+      "Element",
+      "Cost",
+      "Attack",
+      "Health",
+      "Gate Power",
+      "Subtype"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "",
+        "customCategories": [
+          "Leader",
+          "Gate",
+          "IKZ Pile"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "20"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Mana",
+          "The_Garden",
+          "The_Alley",
+          "Leader",
+          "Gate",
+          "IKZ"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "The_Garden",
+                  "style": false
+                },
+                {
+                  "section": "Leader",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "The_Alley",
+                  "style": false
+                },
+                {
+                  "section": "Gate",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "IKZ",
+                  "style": false
+                },
+                {
+                  "section": "Mana",
+                  "style": false
+                },
+                {
+                  "section": "Deck",
+                  "style": false
+                },
+                {
+                  "section": "Discard",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Leader",
+          "Gate",
+          "Deck",
+          "IKZ"
+        ],
+        "autoPlayFromHand": {
+          "Entity": "Stack",
+          "Weapon": "Stack",
+          "Spell": "Stack"
+        },
+        "autoPlayFromStack": {
+          "IKZ": "Mana"
+        },
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "IKZ Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "The_Garden": {
+            "title": "The_Garden",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "The Garden",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Leader": {
+            "title": "Leader",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "The_Alley": {
+            "title": "The_Alley",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "The Alley",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Gate": {
+            "title": "Gate",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+		  "IKZ": {
+			"title": "IKZ",
+			"isHidden": "yes",
+			"height": "MEDIUM",
+			"alignment": "DECK",
+			"displayedTitle": "Extra deck",
+}
+        }
+      }
+    }
+  }
+}
