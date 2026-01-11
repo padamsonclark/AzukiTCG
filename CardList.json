@@ -1,0 +1,5591 @@
+{
+  "AZK01-001": {
+    "id": "AZK01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Penny",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-001_Penny_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Penny",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "0",
+    "Health": "1",
+    "Gate Power": "0",
+    "Element": "Neutral",
+    "Subtype": [
+      "Beanz"
+    ]
+  },
+  "AZK01-002": {
+    "id": "AZK01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Healing Flutter",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-002_Healing-Flutter_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Healing Flutter",
+    "type": "Spell",
+    "cost": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Beanz"
+    ]
+  },
+  "AZK01-003": {
+    "id": "AZK01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Courier",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-003_Black-Jade-Courier_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Courier",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "0",
+    "Element": "Neutral",
+    "Subtype": [
+      "Black Jade",
+      "Strider"
+    ]
+  },
+  "AZK01-004": {
+    "id": "AZK01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alley Thug",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-004_Alley-Thug_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alley Thug",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "0",
+    "Element": "Neutral",
+    "Subtype": [
+      "Alley Dweller",
+      "Dawnling"
+    ]
+  },
+  "AZK01-005": {
+    "id": "AZK01-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caravan Guard",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-005_Caravan-Guard_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caravan Guard",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Samurai",
+      "Steelborn"
+    ]
+  },
+  "AZK01-006": {
+    "id": "AZK01-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gus",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-006_Gus_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gus",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Beanz",
+      "Trickster"
+    ]
+  },
+  "AZK01-007": {
+    "id": "AZK01-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Johnny",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-007_Johnny_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Johnny",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "0",
+    "Subtype": [
+      "Beanz",
+      "Invigorate"
+    ],
+    "Element": "Neutral"
+  },
+  "AZK01-008": {
+    "id": "AZK01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rainy Day Assassin",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-008_Rainy-Day-Assassin_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rainy Day Assassin",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Assassin"
+    ]
+  },
+  "AZK01-009": {
+    "id": "AKZ01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Red Bean",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-009_The-Red-Bean_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Red Bean",
+    "type": "Spell",
+    "cost": "1",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Neutral",
+    "Subtype": [
+      "Legendary Bean"
+    ]
+  },
+  "AZK01-010": {
+    "id": "AKZ01-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "JD",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-010_JD_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "JD",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Dawnling",
+      "JD"
+    ]
+  },
+  "AZK01-011": {
+    "id": "AKZ01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rooftop Hunter",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-011_Rooftop-Hunter_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rooftop Hunter",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Steelborn"
+    ]
+  },
+  "AZK01-012": {
+    "id": "AKZ01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ed",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-012_Ed_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ed",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Neutral",
+    "Subtype": [
+      "Beanz"
+    ],
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "1"
+  },
+  "AZK01-013": {
+    "id": "AKZ01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gou the Iron Judge",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-013_Gou-the-Iron-Judge_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gou the Iron Judge",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Neutral",
+    "Subtype": [
+      "Fatedealer"
+    ],
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "1"
+  },
+  "AZK01-014": {
+    "id": "AKZ01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trade Guild Cavalry",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-014_Trade-Guild-Cavalry_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trade Guild Cavalry",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Neutral",
+    "Subtype": [
+      "Invigorate",
+      "Samurai"
+    ],
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-015": {
+    "id": "AKZ01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mo",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-015_Mo_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mo",
+    "type": "Entity",
+    "cost": "6",
+    "Element": "Neutral",
+    "Subtype": [
+      "Dawnling",
+      "Fox Fire"
+    ],
+    "Attack": "4",
+    "Health": "4",
+    "Gate Power": "1"
+  },
+  "AZK01-016": {
+    "id": "AKZ01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sleight of Hand",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-016_Sleight-of-Hand_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sleight of Hand",
+    "type": "Spell",
+    "cost": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Trickster"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-017": {
+    "id": "AZK01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hook Sword Strike",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-017_Hook-Sword-Strike_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hook Sword Strike",
+    "type": "Spell",
+    "cost": "2",
+    "Element": "Neutral",
+    "Subtype": [
+      "Steelborn"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-018": {
+    "id": "AZK01-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monk Staff of Warding",
+        "type": "Weapon",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-018_Monk-Staff-of-Warding_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "type": "",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monk Staff of Warding",
+    "type": "Weapon",
+    "cost": "4",
+    "Element": "Neutral",
+    "Subtype": [
+      "Staff"
+    ],
+    "Attack": "3",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-019": {
+    "id": "AKZ01-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jay",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-019_Jay_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jay",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Neutral",
+    "Subtype": [
+      "Beanz"
+    ],
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-020": {
+    "id": "AZK01-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power of Friendship",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-020_Power-of-Friendship_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Power of Friendship",
+    "type": "Spell",
+    "cost": "3",
+    "Element": "Neutral",
+    "Subtype": [
+      "Beanz",
+      "JD"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-021": {
+    "id": "AZK01-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mizuto",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-021_Mizuto_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mizuto",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-022": {
+    "id": "AZK01-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mirage Frog",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-022_Mirage-Frog_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mirage Frog",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Water",
+    "Subtype": [
+      "Frog",
+      "Rippleborn",
+      "Watercrafting"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-023": {
+    "id": "AZK01-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maho",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-023_Maho_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maho",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-024": {
+    "id": "AZK01-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fumiko",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-024_Fumiko_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fumiko",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Water",
+    "Subtype": [
+      "Painter",
+      "Watercrafting"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-025": {
+    "id": "AZK01-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lighthouse Keeper",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-025_Lighthouse-Keeper_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lighthouse Keeper",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Water",
+    "Subtype": [
+      "Driftward",
+      "Elder"
+    ],
+    "Attack": 0,
+    "Health": "3",
+    "Gate Power": 0
+  },
+  "AZK01-026": {
+    "id": "AKZ01-026`",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moonlit Crane",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-026_Moonlit-Crane_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moonlit Crane",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Water",
+    "Subtype": [
+      "Bird",
+      "Driftward",
+      "Rippleborn"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "5"
+  },
+  "AZK01-027": {
+    "id": "AZK01-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaiya Mizumi",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-027_Kaiya-Mizumi_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaiya Mizumi",
+    "type": "Entity",
+    "cost": "6",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller"
+    ],
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-028": {
+    "id": "AZK01-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sōryū no Rin",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-028_Soryu-no-Rin_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sōryū no Rin",
+    "type": "Entity",
+    "cost": "8",
+    "Element": "Water",
+    "Subtype": [
+      "Watercrafting",
+      "Wavecaller"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-028a": {
+    "id": "AZK01-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sōryū no Rin",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/AZK01-028A_Soryu-no-Rin_E_SR_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sōryū no Rin",
+    "type": "Entity",
+    "cost": "8",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller",
+      "Wavecrafting"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-029": {
+    "id": "AZK01-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aquatic Veil",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-029_Aquatic-Veil_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aquatic Veil",
+    "type": "Spell",
+    "cost": 0,
+    "Element": "Water",
+    "Subtype": [
+      "Aquashield"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-030": {
+    "id": "AZK01-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lotus of Paradise",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-030_Lotus-of-Paradise_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lotus of Paradise",
+    "type": "Spell",
+    "cost": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Lotus",
+      "Watercrafting"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-031": {
+    "id": "AZK01-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tidal Insight",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-031_Tidal-Insight_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tidal Insight",
+    "type": "Spell",
+    "cost": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Sirencall"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-032": {
+    "id": "AZK01-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rippling Recall",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-032_Rippling-Recall_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rippling Recall",
+    "type": "Spell",
+    "cost": "3",
+    "Element": "Water",
+    "Subtype": [
+      "Watercrafting"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-033": {
+    "id": "AZK01-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elder Hashin",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-033_Elder-Hoshin_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elder Hashin",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Lightning",
+    "Subtype": [
+      "Elder",
+      "Monk",
+      "Stormcaller"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-034": {
+    "id": "AZK01-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kira",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-034_Kira_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kira",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Lightning",
+    "Subtype": [
+      "Voltguard"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "2"
+  },
+  "AZK01-035": {
+    "id": "AZK01-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raimaru the Stolen",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-035_Raimaru-the-Stolen_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raimaru the Stolen",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Lightning",
+    "Subtype": [
+      "Cat",
+      "Statue",
+      "Voltguard"
+    ],
+    "Attack": 0,
+    "Health": "1",
+    "Gate Power": "0"
+  },
+  "AZK01-036": {
+    "id": "AZK01-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Denmu",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-036_Denmu_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Denmu",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Lightning",
+    "Subtype": [
+      "Bat",
+      "Shockcoil"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-037": {
+    "id": "AZK01-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stormcaller Tenkichi",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-037_Stormcaller-Tenkichi_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stormcaller Tenkichi",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Lightning",
+    "Subtype": [
+      "Riftwalk",
+      "Stormcaller"
+    ],
+    "Attack": "3",
+    "Health": "2",
+    "Gate Power": 0
+  },
+  "AZK01-038": {
+    "id": "AZK01-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riven Flashborne",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-038_Riven-Flashborne_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riven Flashborne",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Lightning",
+    "Subtype": [
+      "Riftwalk"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "01"
+  },
+  "AZK01-039": {
+    "id": "AZK01-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piko",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-039_Piko_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piko",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Lightning",
+    "Subtype": [
+      "Cat",
+      "Steelborn"
+    ],
+    "Attack": "2",
+    "Health": "3",
+    "Gate Power": 0
+  },
+  "AZK01-040": {
+    "id": "AZK01-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Vault Master",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-040_Black-Jade-Vault-Master_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Vault Master",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Lightning",
+    "Subtype": [
+      "Black Jade",
+      "Tiger",
+      "Voltguard"
+    ],
+    "Attack": "1",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-041": {
+    "id": "AZK01-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wu Cha",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-041_Wu-Cha_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wu Cha",
+    "type": "Entity",
+    "cost": "8",
+    "Element": "Lightning",
+    "Subtype": [
+      "Fox Fire",
+      "Steelborn"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-042": {
+    "id": "AZK01-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thunderclap",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-042_Thunderclap_S_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thunderclap",
+    "type": "Spell",
+    "cost": "5",
+    "Element": "Lightning",
+    "Subtype": [
+      "Stormcaller"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-042a": {
+    "id": "AZK01-042a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thunderclap",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/AZK01-042A_Thunderclap_S_SR_TEX2_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thunderclap",
+    "type": "Spell",
+    "cost": "5",
+    "Element": "Lightning",
+    "Subtype": [
+      "Stormcaller"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-043": {
+    "id": "AZK01-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stormglass Daggers",
+        "type": "Weapon",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-043_Stormglass-Daggers_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stormglass Daggers",
+    "type": "Weapon",
+    "cost": "2",
+    "Element": "Lightning",
+    "Subtype": [
+      "Dagger",
+      "Riftwalk"
+    ],
+    "Attack": "1",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-044": {
+    "id": "AZK01-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightning Kanabō",
+        "type": "Weapon",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-044_Lightning-Kanabo_W_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightning Kanabō",
+    "type": "Weapon",
+    "cost": "3",
+    "Element": "Lightning",
+    "Subtype": [
+      "Shockcoil"
+    ],
+    "Attack": "2",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-045": {
+    "id": "AZK01-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Treetop Scout",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-045_Treetop-Scout_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Treetop Scout",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Earth",
+    "Subtype": [
+      "Scout"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-046": {
+    "id": "AZK01-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mina the Geomancer",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-046_Mina-the-Geomancer_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mina the Geomancer",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": 0
+  },
+  "AZK01-047": {
+    "id": "AZK01-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiko the Priestess",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-047_Shiko-the-Priestess_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiko the Priestess",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-048": {
+    "id": "AZK01-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kale",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-048_Kale_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kale",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "2"
+  },
+  "AZK01-049": {
+    "id": "AZK01-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lone Journeyman",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-049_Lone-Journeyman_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lone Journeyman",
+    "type": "Leader",
+    "cost": 0,
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "2"
+  },
+  "AZK01-050": {
+    "id": "AZK01-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shroom Tender",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-050_Shroom-Tender_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shroom Tender",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Earth",
+    "Subtype": [
+      "Beanz",
+      "Earthwarden"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2"
+  },
+  "AZK01-051": {
+    "id": "AZK01-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chillax",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-051_Chillax_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chillax",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden",
+      "Sloth"
+    ],
+    "Attack": "1",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-052": {
+    "id": "AZK01-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yojin",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-052_Yojin_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yojin",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden"
+    ],
+    "Attack": "2",
+    "Health": "4",
+    "Gate Power": "2"
+  },
+  "AZK01-053": {
+    "id": "AZK01-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Geodust Smuggler",
+        "type": "Entity",
+        "cost": "7",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-053_Geodust-Smuggler_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Geodust Smuggler",
+    "type": "Entity",
+    "cost": "7",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian"
+    ],
+    "Attack": "4",
+    "Health": "5",
+    "Gate Power": "3"
+  },
+  "AZK01-054": {
+    "id": "AZK01-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teb Fea",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-054_Teb-Fea_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teb Fea",
+    "type": "Entity",
+    "cost": "8",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-054a": {
+    "id": "AZK01-054a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teb Fea",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/AZK01-054A_Teb-Fea_E_SR_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teb Fea",
+    "type": "Gate",
+    "cost": "8",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-055": {
+    "id": "AZK01-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Earth Orb",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-055_Earth-Orb_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Earth Orb",
+    "type": "Spell",
+    "cost": "2",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury",
+      "Orb"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-056": {
+    "id": "AZK01-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glass Blower, Hokuto",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-056_Glass-Blower-Hokuto_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glass Blower, Hokuto",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Artisan",
+      "Firemancer"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-057": {
+    "id": "AZK01-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lounge Siren, Saiko",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-057_Lounge-Siren-Saeko_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lounge Siren, Saiko",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Scorchweaver"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-058": {
+    "id": "AZK01-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Warlord",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-058_Black-Jade-Warlord_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Warlord",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Fire",
+    "Subtype": [
+      "Black Jade",
+      "Blazerker",
+      "Invigorate"
+    ],
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-059": {
+    "id": "AZK01-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spice",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-059_Spice_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spice",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Fire",
+    "Subtype": false,
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-060": {
+    "id": "AZK01-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scarlett",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-060_Scarlett_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scarlett",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker"
+    ],
+    "Attack": "3",
+    "Health": "2",
+    "Gate Power": "2"
+  },
+  "AZK01-061": {
+    "id": "AZK01-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Brand Renji",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-061_Firebrand-Renji_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fire Brand Renji",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Fire",
+    "Subtype": [
+      "Pyreskin"
+    ],
+    "Attack": "1",
+    "Health": "3",
+    "Gate Power": "1"
+  },
+  "AZK01-062": {
+    "id": "AZK01-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pekiro",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-062_Pekiro_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pekiro",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Fire",
+    "Subtype": [
+      "Red Panda",
+      "Pyreskin"
+    ],
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "2"
+  },
+  "AZK01-063": {
+    "id": "AZK01-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enzo",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-063_Enzo_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enzo",
+    "type": "Entity",
+    "cost": "6",
+    "Element": "Fire",
+    "Subtype": [
+      "Chef",
+      "Scorchweaver"
+    ],
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-064": {
+    "id": "AZK01-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zero",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-064_Zero_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zero",
+    "type": "Entity",
+    "cost": "8",
+    "Element": "Fire",
+    "Subtype": [
+      "Black Jade",
+      "Scorchweaver"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-064a": {
+    "id": "AZK01-064a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zero",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/AZK01-064A_Zero_E_SR_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zero",
+    "type": "Entity",
+    "cost": "8",
+    "Element": "Fire",
+    "Subtype": [
+      "Scorchweaver",
+      "Black Jade"
+    ],
+    "Attack": "7",
+    "Health": "7",
+    "Gate Power": "2"
+  },
+  "AZK01-065": {
+    "id": "AZK01-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fire Orb",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-065_Fire-Orb_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fire Orb",
+    "type": "Spell",
+    "cost": "4",
+    "Element": "Fire",
+    "Subtype": [
+      "Orb",
+      "Scorchweaver"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-066": {
+    "id": "AZK01-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Firestorm",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-066_Firestorm_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Firestorm",
+    "type": "Spell",
+    "cost": "5",
+    "Element": "Fire",
+    "Subtype": [
+      "Scorchweaver"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-087": {
+    "id": "AZK01-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mizuryuu's Torrent",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-087_Mizuryuus-Torrent_S_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mizuryuu's Torrent",
+    "type": "Spell",
+    "cost": "4",
+    "Element": "Water",
+    "Subtype": [
+      "Mizuryuu"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-088": {
+    "id": "AZK01-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pulled Under",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-088_Pulled-Under_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pulled Under",
+    "type": "Spell",
+    "cost": "6",
+    "Element": "Water",
+    "Subtype": [
+      "Watercrafting"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-089": {
+    "id": "AZK01-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mizuryuu Fist Master",
+        "type": "Entity",
+        "cost": "7",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-089_Mizuryuu-Fist-Master_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mizuryuu Fist Master",
+    "type": "Entity",
+    "cost": "7",
+    "Element": "Water",
+    "Subtype": [
+      "Frog",
+      "Mizuryuu",
+      "Watercrafting"
+    ],
+    "Attack": "5",
+    "Health": "5",
+    "Gate Power": "3"
+  },
+  "AZK01-090": {
+    "id": "AZK01-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Priestess of the Mists",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-090_Priestess-of-the-Mists_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Priestess of the Mists",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Water",
+    "Subtype": [
+      "Priestess",
+      "Wavecaller"
+    ],
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-091": {
+    "id": "AZK01-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bubble Adept",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-091_Bubble-Adept_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubble Adept",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Water",
+    "Subtype": [
+      "Aquashield",
+      "Driftward"
+    ],
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": 0
+  },
+  "AZK01-092": {
+    "id": "AZK01-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lotus of Reflection",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-092_Lotus-of-Reflection_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lotus of Reflection",
+    "type": "Spell",
+    "cost": "2",
+    "Element": "Water",
+    "Subtype": [
+      "Lotus",
+      "Wavecaller"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-093": {
+    "id": "AZK01-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naiyara the Tideweaver",
+        "type": "Entity",
+        "cost": "7",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-093_Naiyara-the-Tideweaver_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naiyara the Tideweaver",
+    "type": "Entity",
+    "cost": "7",
+    "Element": "Water",
+    "Subtype": [
+      "Downcurrent",
+      "Mizuryuu"
+    ],
+    "Attack": "4",
+    "Health": "4",
+    "Gate Power": "3"
+  },
+  "AZK01-094": {
+    "id": "AZK01-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hidden Dagger",
+        "type": "Weapon",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-094_Hidden-Dagger_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hidden Dagger",
+    "type": "Weapon",
+    "cost": "1",
+    "Element": "Lightning",
+    "Subtype": [
+      "Dagger",
+      "Shadowfang"
+    ],
+    "Attack": "1",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-095": {
+    "id": "AZK01-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stormglass Katana",
+        "type": "Weapon",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-095_Stormglass-Katana_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stormglass Katana",
+    "type": "Weapon",
+    "cost": "4",
+    "Element": "Lightning",
+    "Subtype": [
+      "Riftwalk",
+      "Sword"
+    ],
+    "Attack": "3",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-096": {
+    "id": "AZK01-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ninpō: Thunderstep",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-096_Ninpo-Thunderstep_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninpō: Thunderstep",
+    "type": "Spell",
+    "cost": "2",
+    "Element": "Lightning",
+    "Subtype": [
+      "Voltguard"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-097": {
+    "id": "AZK01-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Pawnbroker",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-097_Black-Jade-Pawnbroker_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Pawnbroker",
+    "type": "Entity",
+    "cost": "1",
+    "Element": "Lightning",
+    "Subtype": [
+      "Black Jade",
+      "Merchant",
+      "Steelborn"
+    ],
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-098": {
+    "id": "AZK01-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arms Dealer, Kin",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-098_Arms-Dealer-Kin_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arms Dealer, Kin",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Lightning",
+    "Subtype": [
+      "Merchant",
+      "Steelborn"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-099": {
+    "id": "AZK01-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raiko's Wrath, Shin",
+        "type": "Entity",
+        "cost": "7",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-099_Raikos-Wrath-Shin_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raiko's Wrath, Shin",
+    "type": "Entity",
+    "cost": "7",
+    "Element": "Lightning",
+    "Subtype": [
+      "Shockcoil",
+      "Stormcaller",
+      "Tiger"
+    ],
+    "Attack": "4",
+    "Health": "4",
+    "Gate Power": "3"
+  },
+  "AZK01-100": {
+    "id": "AZK01-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raizan's Riposte",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-100_Raizans-Riposte_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raizan's Riposte",
+    "type": "Spell",
+    "cost": "2",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizan",
+      "Steelborn"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-101": {
+    "id": "AZK01-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sand Stands Still",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-101_Sand-Stands-Still_S_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sand Stands Still",
+    "type": "Spell",
+    "cost": "3",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-102": {
+    "id": "AZK01-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oathstone",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-102_Oathstone_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oathstone",
+    "type": "Spell",
+    "cost": "2",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-103": {
+    "id": "AZK01-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dropline Station",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-103_Dropline-Station_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dropline Station",
+    "type": "Entity",
+    "cost": "5",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury"
+    ],
+    "Attack": 0,
+    "Health": "4",
+    "Gate Power": "3"
+  },
+  "AZK01-104": {
+    "id": "AZK01-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanzu's Envoy",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-104_Sanzus-Envoy_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanzu's Envoy",
+    "type": "Entity",
+    "cost": "6",
+    "Element": "Earth",
+    "Subtype": [
+      "Stonemend",
+      "Verdant"
+    ],
+    "Attack": "4",
+    "Health": "4",
+    "Gate Power": "3"
+  },
+  "AZK01-105": {
+    "id": "AZK01-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prickly Tumbleweed",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-105_Prickly-Tumbleweed_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prickly Tumbleweed",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury"
+    ],
+    "Attack": "1",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-106": {
+    "id": "AZK01-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lord of Sands, Ōsunanami",
+        "type": "Entity",
+        "cost": "10",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-106_Lord-of-Sands-Osunanami_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lord of Sands, Ōsunanami",
+    "type": "Entity",
+    "cost": "10",
+    "Element": "Earth",
+    "Subtype": [
+      "Colossal",
+      "Sandstrider"
+    ],
+    "Attack": "6",
+    "Health": "6",
+    "Gate Power": "3"
+  },
+  "AZK01-107": {
+    "id": "AZK01-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Offering to Stillstone",
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-107_Offering-to-Stillstone_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Offering to Stillstone",
+    "type": "Spell",
+    "cost": 0,
+    "Element": "Earth",
+    "Subtype": [
+      "Verdant"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-108": {
+    "id": "AZK01-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crushing Weight",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-108_Crushing-Weight_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crushing Weight",
+    "type": "Spell",
+    "cost": "5",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-109": {
+    "id": "AZK01-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rock Sloth",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-109_Rock-Sloth_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rock Sloth",
+    "type": "Entity",
+    "cost": "6",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian",
+      "Sloth"
+    ],
+    "Attack": "3",
+    "Health": "4",
+    "Gate Power": "3"
+  },
+  "AZK01-110": {
+    "id": "AZK01-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gluttonous Devourer, Kasha",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-110_Gluttonous-Devourer-Kasha_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gluttonous Devourer, Kasha",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Fire",
+    "Subtype": [
+      "Loneflame",
+      "Red Panda"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2"
+  },
+  "AZK01-111": {
+    "id": "AZK01-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Decoy",
+        "type": "Gate",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-111_Black-Jade-Decoy_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Decoy",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Fire",
+    "Subtype": [
+      "Ashveil",
+      "Black Jade",
+      "Shikigami"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "1"
+  },
+  "AZK01-112": {
+    "id": "AZK01-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enrai Shakunetsu",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-112_Enrai-Shakunetsu_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enrai Shakunetsu",
+    "type": "Entity",
+    "cost": "6",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker",
+      "Loneflame"
+    ],
+    "Attack": "4",
+    "Health": "3",
+    "Gate Power": "2"
+  },
+  "AZK01-113": {
+    "id": "AZK01-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cinderwake Pursuer",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-113_Cinderwake-Pursuer_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinderwake Pursuer",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker",
+      "Cinderwake"
+    ],
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "1"
+  },
+  "AZK01-114": {
+    "id": "AZK01-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Omen Peddler",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-114_Omen-Peddler_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Omen Peddler",
+    "type": "Entity",
+    "cost": "3",
+    "Element": "Fire",
+    "Subtype": [
+      "Elder",
+      "Scorchweaver"
+    ],
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": 0
+  },
+  "AZK01-115": {
+    "id": "AZK01-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crazed Arsonist",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-115_Crazed-Arsonist_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crazed Arsonist",
+    "type": "Entity",
+    "cost": "2",
+    "Element": "Fire",
+    "Subtype": [
+      "Scorchweaver",
+      "Wildfire"
+    ],
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": 0
+  },
+  "AZK01-116": {
+    "id": "AZK01-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tenmoku Daiki",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-116_Tenmoku-Daiki_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tenmoku Daiki",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker",
+      "Brawler"
+    ],
+    "Attack": "3",
+    "Health": "2",
+    "Gate Power": "3"
+  },
+  "AZK01-117": {
+    "id": "AZK01-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ignition Pact",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-117_Ignition-Pact_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ignition Pact",
+    "type": "Spell",
+    "cost": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker"
+    ],
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZK01-118": {
+    "id": "AZK01-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bandit Ringleader",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-118_Bandit-Ringleader_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandit Ringleader",
+    "type": "Entity",
+    "cost": "4",
+    "Element": "Fire",
+    "Subtype": [
+      "Bandit",
+      "Scorchweaver"
+    ],
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2"
+  },
+  "IKZ-001": {
+    "id": "IKZ-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "IKZ",
+        "type": "IKZ",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-IKZ-001_IKZ!_IKZ_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IKZ",
+    "type": "IKZ",
+    "cost": "",
+    "Element": "",
+    "Subtype": false,
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "IKZ-001a": {
+    "id": "IKZ-001a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "IKZ",
+        "type": "IKZ",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/IKZ-001A_IKZ!_IKZ_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IKZ",
+    "type": "IKZ",
+    "cost": "",
+    "Element": "",
+    "Subtype": false,
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "IKZ-002": {
+    "id": "IKZ-002",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "IKZ Token",
+        "type": "IKZ",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-IKZ-002_IKZ!_IKZ-Token_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IKZ Token",
+    "type": "IKZ",
+    "cost": "",
+    "Element": "",
+    "Subtype": false,
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "IKZ-002a": {
+    "id": "IKZ-002a",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "IKZ Token",
+        "type": "IKZ",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/IKZ-002A_IKZ!_IKZ-Token_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IKZ Token",
+    "type": "IKZ",
+    "cost": "",
+    "Element": "",
+    "Subtype": false,
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "AZP-001": {
+    "id": "AZP-001",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "IKZ Token",
+        "type": "IKZ",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/AZP-001_IKZ!_IKZ-Token-AX-Participation_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IKZ Token",
+    "type": "IKZ",
+    "cost": "",
+    "Element": "",
+    "Subtype": false,
+    "Attack": "",
+    "Health": "",
+    "Gate Power": ""
+  },
+  "STT01-001": {
+    "id": "STT01-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raizan",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-001_Raizan_L_L_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raizan, Leader",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "20",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizan"
+    ]
+  },
+  "STT01-001a": {
+    "id": "STT01-001a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raizan",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT01-001A_Raizan_L_AA_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raizan, Leader",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "20",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizan"
+    ]
+  },
+  "STT01-002": {
+    "id": "STT01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surge Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-002_Surge-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surge Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "STT01-002a": {
+    "id": "STT01-002a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Surge Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT01-002A_Surge-Gate_G_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surge Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "STT01-003": {
+    "id": "STT01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crate Rat Kurobo",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-003_Crate-Rat-Kurobo_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crate Rat Kurobo",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Lightning",
+    "Subtype": [
+      "Beanz",
+      "Black Jade"
+    ]
+  },
+  "STT01-004": {
+    "id": "STT01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Recruit",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-004_Black-Jade-Recruit_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Recruit",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Black Jade",
+      "Dawnling"
+    ]
+  },
+  "STT01-005": {
+    "id": "STT01-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alpine Prowler",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-005_Alpine-Prowler_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alpine Prowler",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "2",
+    "Element": "Lightning",
+    "Subtype": [
+      "Bandit"
+    ]
+  },
+  "STT01-006": {
+    "id": "STT01-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Silver Current, Haruhi",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-006_Silver-Current-Haruhi_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silver Current, Haruhi",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Lightning",
+    "Subtype": [
+      "Elder",
+      "Monk"
+    ]
+  },
+  "STT01-007": {
+    "id": "STT01-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alley Guy",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-007_Alley-Guy_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alley Guy",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Neutral",
+    "Subtype": [
+      "Alley Dweller",
+      "Dawnling"
+    ]
+  },
+  "STT01-008": {
+    "id": "STT01-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Crewleader",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-008_Black-Jade-Crewleader_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Crewleader",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Lightning",
+    "Subtype": [
+      "Black Jade",
+      "Steelborn"
+    ]
+  },
+  "STT01-009": {
+    "id": "STT01-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mastersmith Yamada",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-009_Mastersmith-Yamada_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mastersmith Yamada",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2",
+    "Element": "Lightning",
+    "Subtype": [
+      "Steelborn"
+    ]
+  },
+  "STT01-010": {
+    "id": "STT01-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Indra",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-010_Indra_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Indra",
+    "type": "Entity",
+    "cost": "5",
+    "Attack": "3",
+    "Health": "2",
+    "Gate Power": "3",
+    "Element": "Lightning",
+    "Subtype": [
+      "Monk",
+      "Steelborn"
+    ]
+  },
+  "STT01-011": {
+    "id": "STT01-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raizan",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-011_Raizan_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raizan",
+    "type": "Entity",
+    "cost": "6",
+    "Attack": "4",
+    "Health": "3",
+    "Gate Power": "4",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizan",
+      "Steelborn"
+    ]
+  },
+  "STT01-011a": {
+    "id": "STT01-011a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raizan",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT01-011A_Raizan_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raizan",
+    "type": "Entity",
+    "cost": "6",
+    "Attack": "4",
+    "Health": "3",
+    "Gate Power": "4",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizan",
+      "Steelborn"
+    ]
+  },
+  "STT01-012": {
+    "id": "STT01-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightning Shuriken",
+        "type": "Weapon",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-012_Lightning-Shuriken_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightning Shuriken",
+    "type": "Weapon",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Neutral",
+    "Subtype": [
+      "Shadowfang",
+      "Shuriken"
+    ]
+  },
+  "STT01-013": {
+    "id": "STT01-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Jade Dagger",
+        "type": "Weapon",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-013_Black-Jade-Dagger_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Jade Dagger",
+    "type": "Weapon",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Neutral",
+    "Subtype": [
+      "Black Jade",
+      "Dagger"
+    ]
+  },
+  "STT01-014": {
+    "id": "STT01-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tenshin",
+        "type": "Weapon",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-014_Tenshin_W_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tenshin",
+    "type": "Weapon",
+    "cost": "2",
+    "Attack": "2",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Neutral",
+    "Subtype": [
+      "Sword"
+    ]
+  },
+  "STT01-015": {
+    "id": "STT01-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tenraku",
+        "type": "Weapon",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-015_Tenraku_W_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tenraku",
+    "type": "Weapon",
+    "cost": "3",
+    "Attack": "3",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Neutral",
+    "Subtype": [
+      "Sword"
+    ]
+  },
+  "STT01-016": {
+    "id": "STT01-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ikazuchi",
+        "type": "Weapon",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-016_Ikazuchi_W_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ikazuchi",
+    "type": "Weapon",
+    "cost": "4",
+    "Attack": "4",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizan",
+      "Sword"
+    ]
+  },
+  "STT01-016a": {
+    "id": "STT01-016a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ikazuchi",
+        "type": "Weapon",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT01-016A_Ikazuchi_W_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ikazuchi",
+    "type": "Weapon",
+    "cost": "4",
+    "Attack": "4",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Raizen",
+      "Sword"
+    ]
+  },
+  "STT01-017": {
+    "id": "STT01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightning Orb",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-017_Lightning-Orb_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightning Orb",
+    "type": "Spell",
+    "cost": "1",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Orb",
+      "Stormcaller"
+    ]
+  },
+  "STT02-001": {
+    "id": "STT02-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shao",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-001_Shao_L_L_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shao, Leader",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "20",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Shao"
+    ]
+  },
+  "STT02-001a": {
+    "id": "STT02-001a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shao",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT02-001A_Shao_L_AA_Die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shao, Leader",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "20",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Shao"
+    ]
+  },
+  "STT02-002": {
+    "id": "STT02-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hydromancy Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-002_Hydromancy-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hydromancy Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "STT02-002a": {
+    "id": "STT02-002a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hydromancy Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT02-002A_Hydromancy-Gate_G_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hydromancy Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "STT02-003": {
+    "id": "STT02-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hayabusa Itto",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-003_Hayabusa-Itto_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hayabusa Itto",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Elder",
+      "Sushi Chef"
+    ]
+  },
+  "STT02-004": {
+    "id": "STT02-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rei",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-004_Rei_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rei",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Neutral",
+    "Subtype": [
+      "Dawnling"
+    ]
+  },
+  "STT02-005": {
+    "id": "STT02-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hayabusa Saburo",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-005_Hayabusa-Saburo_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hayabusa Saburo",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Sushi Chef"
+    ]
+  },
+  "STT02-006": {
+    "id": "STT02-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Foamback Crab",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-006_Foamback-Crab_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Foamback Crab",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "0",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Crab",
+      "Driftward",
+      "Rippleborn"
+    ]
+  },
+  "STT02-007": {
+    "id": "STT02-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Benzai the Merchant",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-007_Benzai-the-Merchant_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Benzai the Merchant",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Water",
+    "Subtype": [
+      "Frog",
+      "Merchant",
+      "Wavecaller"
+    ]
+  },
+  "STT02-008": {
+    "id": "STT02-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serene Fist, Misaki",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-008_Serene-Fist-Misaki_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serene Fist, Misaki",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "0",
+    "Element": "Water",
+    "Subtype": [
+      "Driftward"
+    ]
+  },
+  "STT02-009": {
+    "id": "STT02-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aya",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-009_Aya_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aya",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Painter",
+      "Watercrafting"
+    ]
+  },
+  "STT02-010": {
+    "id": "STT02-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Selis of the Shore",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-010_Selis-of-the-Shore_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Selis of the Shore",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "1",
+    "Health": "3",
+    "Gate Power": "1",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller"
+    ]
+  },
+  "STT02-011": {
+    "id": "STT02-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bubblemancer",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-011_Bubblemancer_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubblemancer",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Water",
+    "Subtype": [
+      "Driftward"
+    ]
+  },
+  "STT02-012": {
+    "id": "STT02-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Young Shao",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-012_Young-Shao_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Young Shao",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2",
+    "Element": "Neutral",
+    "Subtype": [
+      "Dawnling",
+      "Shao"
+    ]
+  },
+  "STT02-013": {
+    "id": "STT02-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mizuki",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-013_Mizuki_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mizuki",
+    "type": "Entity",
+    "cost": "5",
+    "Attack": "3",
+    "Health": "4",
+    "Gate Power": "2",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller"
+    ]
+  },
+  "STT02-013a": {
+    "id": "STT02-013a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mizuki",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT02-013A_Mizuki_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mizuki",
+    "type": false,
+    "cost": "5",
+    "Attack": "3",
+    "Health": "4",
+    "Gate Power": "2",
+    "Element": "Water",
+    "Subtype": [
+      "Wavecaller"
+    ]
+  },
+  "STT02-014": {
+    "id": "STT02-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chilling Water",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-014_Chilling-Water_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chilling Water",
+    "type": "Spell",
+    "cost": "1",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Subzero",
+      "Watercrafting"
+    ]
+  },
+  "STT02-015": {
+    "id": "STT02-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Commune with Water",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-015_Commune-with-Water_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commune with Water",
+    "type": "Spell",
+    "cost": "2",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Watercrafting"
+    ]
+  },
+  "STT02-016": {
+    "id": "STT02-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Water Orb",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-016_Water-Orb_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Water Orb",
+    "type": "Spell",
+    "cost": "1",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Orb",
+      "Watercrafting"
+    ]
+  },
+  "STT02-017": {
+    "id": "STT02-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shao's Perseverance",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-017_Shaos-Perseverance_S_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shao's Perseverance",
+    "type": "Spell",
+    "cost": "6",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Shao",
+      "Watercrafting"
+    ]
+  },
+  "STT02-017a": {
+    "id": "STT02-017a",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shao's Perseverance",
+        "type": "Spell",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/STT02-017A_Shaos-Perseverance_S_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shao's Perseverance",
+    "type": "Spell",
+    "cost": "6",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Watercrafting",
+      "Shao"
+    ]
+  },
+  "STT03-001": {
+    "id": "STT03-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bobu",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-001_Bobu_L_L_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bobu, Leader",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "20",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Bobu",
+      "Brewmaster",
+      "Stonemend"
+    ]
+  },
+  "STT03-002": {
+    "id": "STT03-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stonehaven Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-002_Stonehaven-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stonehaven Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "STT03-003": {
+    "id": "STT03-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koyama Farm Potter",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-003_Koyama-Farm-Potter_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koyama Farm Potter",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Earth",
+    "Subtype": [
+      "Artisan",
+      "Dusttracker"
+    ]
+  },
+  "STT03-004": {
+    "id": "STT03-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sloth Scarecrow",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-004_Sloth-Scarecrow_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sloth Scarecrow",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "0",
+    "Health": "1",
+    "Gate Power": "0",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden",
+      "Stonemend"
+    ]
+  },
+  "STT03-005": {
+    "id": "STT03-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wobbly Cabbage Cart",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-005_Wobbly-Cabbage-Cart_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wobbly Cabbage Cart",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "0",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury"
+    ]
+  },
+  "STT03-006": {
+    "id": "STT03-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cactus Farmer",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-006_Cactus-Farmer_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cactus Farmer",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "2",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden"
+    ]
+  },
+  "STT03-007": {
+    "id": "STT03-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "https://static-content.azuki.com/tcg/card_art/S1-STT03-007_Koyama-Farm-Caretaker_E_R_die.jpg",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-007_Koyama-Farm-Caretaker_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koyama Farm Caretaker",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "0",
+    "Element": "Earth",
+    "Subtype": [
+      "Farmer",
+      "Verdant"
+    ]
+  },
+  "STT03-008": {
+    "id": "STT03-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Midnight Courier",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-008_Midnight-Courier_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Midnight Courier",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2",
+    "Element": "Neutral",
+    "Subtype": [
+      "Strider"
+    ]
+  },
+  "STT03-009": {
+    "id": "STT03-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Warding Totem",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-009_Warding-Totem_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warding Totem",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "0",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden",
+      "Statue",
+      "Verdant"
+    ]
+  },
+  "STT03-010": {
+    "id": "STT03-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shroommancer",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-010_Shroommancer_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shroommancer",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "2",
+    "Element": "Earth",
+    "Subtype": [
+      "Stonemend"
+    ]
+  },
+  "STT03-011": {
+    "id": "STT03-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Koyama Farm Plowman",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-011_Koyama-Farm-Plowman_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koyama Farm Plowman",
+    "type": "Entity",
+    "cost": "5",
+    "Attack": "2",
+    "Health": "3",
+    "Gate Power": "3",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthwarden",
+      "Farmer",
+      "Obsidian"
+    ]
+  },
+  "STT03-012": {
+    "id": "STT03-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miharu of the White Bloom",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-012_Miharu-of-the-White-Bloom_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miharu of the White Bloom",
+    "type": "Entity",
+    "cost": "6",
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "3",
+    "Element": "Earth",
+    "Subtype": [
+      "Stonemend",
+      "Verdant"
+    ]
+  },
+  "STT03-013": {
+    "id": "STT03-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stone Masked Ancient",
+        "type": "Entity",
+        "cost": "7",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-013_Stone-Masked-Ancient_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stone Masked Ancient",
+    "type": "Entity",
+    "cost": "7",
+    "Attack": "3",
+    "Health": "6",
+    "Gate Power": "3",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian",
+      "Sandstrider"
+    ]
+  },
+  "STT03-014": {
+    "id": "STT03-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sandcoil Python",
+        "type": "Entity",
+        "cost": "8",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-014_Sandcoil-Python_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sandcoil Python",
+    "type": "Entity",
+    "cost": "8",
+    "Attack": "6",
+    "Health": "6",
+    "Gate Power": "4",
+    "Element": "Earth",
+    "Subtype": [
+      "Rootbane",
+      "Sandstrider",
+      "Verdant"
+    ]
+  },
+  "STT03-015": {
+    "id": "STT03-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jar of Beans",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-015_Jar-of-Beans_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jar of Beans",
+    "type": "Spell",
+    "cost": "4",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Stonemend"
+    ]
+  },
+  "STT03-016": {
+    "id": "STT03-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quicksand",
+        "type": "Spell",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-016_Quicksand_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quicksand",
+    "type": "Spell",
+    "cost": "5",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury"
+    ]
+  },
+  "STT03-017": {
+    "id": "STT03-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sprout of Fortune",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-017_Sprout-of-Fortune_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sprout of Fortune",
+    "type": "Spell",
+    "cost": "3",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Verdant"
+    ]
+  },
+  "STT04-001": {
+    "id": "STT04-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zero",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-001_Zero_L_L_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zero, Leader",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "20",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Black Jade",
+      "Scorchweaver"
+    ]
+  },
+  "STT04-002": {
+    "id": "STT04-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ragefire Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-002_Ragefire-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ragefire Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "STT04-003": {
+    "id": "STT04-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cinderwake Seer",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-003_Cinderwake-Seer_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinderwake Seer",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker",
+      "Cinderwake"
+    ]
+  },
+  "STT04-004": {
+    "id": "STT04-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fanatic Kindler",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-004_Fanatic-Kindler_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fanatic Kindler",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Fire",
+    "Subtype": [
+      "Scorchweaver"
+    ]
+  },
+  "STT04-005": {
+    "id": "STT04-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruby",
+        "type": "Entity",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-005_Ruby_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruby",
+    "type": "Entity",
+    "cost": "1",
+    "Attack": "1",
+    "Health": "1",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Ashveil"
+    ]
+  },
+  "STT04-006": {
+    "id": "STT04-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wolf Cub",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-006_Wolf-Cub_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wolf Cub",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Neutral",
+    "Subtype": [
+      "Dawnling",
+      "Wolf"
+    ]
+  },
+  "STT04-007": {
+    "id": "STT04-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enraged Howler",
+        "type": "Entity",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-007_Enraged-Howler_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enraged Howler",
+    "type": "Entity",
+    "cost": "2",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Pyreskin",
+      "Wolf"
+    ]
+  },
+  "STT04-008": {
+    "id": "STT04-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lady Emberheart",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-008_Lady-Emberheart_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lady Emberheart",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "0",
+    "Element": "Fire",
+    "Subtype": [
+      "Crimsondrift"
+    ]
+  },
+  "STT04-009": {
+    "id": "STT04-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cinderwake Ritualist",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-009_Cinderwake-Ritualist_E_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinderwake Ritualist",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "2",
+    "Element": "Fire",
+    "Subtype": [
+      "Cinderwake",
+      "Pyreskin"
+    ]
+  },
+  "STT04-010": {
+    "id": "STT04-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reckless Tinkerer",
+        "type": "Entity",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-010_Reckless-Tinkerer_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reckless Tinkerer",
+    "type": "Entity",
+    "cost": "3",
+    "Attack": "1",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker",
+      "Elder",
+      "Pyreskin"
+    ]
+  },
+  "STT04-011": {
+    "id": "STT04-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scorchland Raven",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-011_Scorchland-Raven_E_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scorchland Raven",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "2",
+    "Health": "2",
+    "Gate Power": "3",
+    "Element": "Neutral",
+    "Subtype": [
+      "Bird"
+    ]
+  },
+  "STT04-012": {
+    "id": "STT04-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spiteful Raider",
+        "type": "Entity",
+        "cost": "4",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-012_Spiteful-Raider_E_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiteful Raider",
+    "type": "Entity",
+    "cost": "4",
+    "Attack": "3",
+    "Health": "2",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Bandit",
+      "Pyreskin"
+    ]
+  },
+  "STT04-013": {
+    "id": "STT04-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kurai the Volcano",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-013_Kurai-the-Volcano_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kurai the Volcano",
+    "type": "Entity",
+    "cost": "5",
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Crimsondrift",
+      "Elder"
+    ]
+  },
+  "STT04-014": {
+    "id": "STT04-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scorchveil Shinobi, Suzuka",
+        "type": "Entity",
+        "cost": "6",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-014_Scorchveil-Shinobi-Suzuka_E_SR_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scorchveil Shinobi, Suzuka",
+    "type": "Entity",
+    "cost": "6",
+    "Attack": "3",
+    "Health": "3",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker",
+      "Ninja"
+    ]
+  },
+  "STT04-015": {
+    "id": "STT04-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Detonation Pact",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-015_Detonation-Pact_S_C_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Detonation Pact",
+    "type": "Spell",
+    "cost": "1",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Scorchweaver"
+    ]
+  },
+  "STT04-016": {
+    "id": "STT04-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "https://static-content.azuki.com/tcg/card_art/S1-STT04-016_Collateral-Burst_S_UC_die.jpg",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-016_Collateral-Burst_S_UC_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Collateral Burst",
+    "type": "Spell",
+    "cost": "2",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Pyreskin",
+      "Scorchweaver"
+    ]
+  },
+  "STT04-017": {
+    "id": "STT04-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wrath of Sinder",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-017_Wrath-of-Sinder_S_R_die.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wrath of Sinder",
+    "type": "Spell",
+    "cost": "3",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Blazerker"
+    ]
+  }
+}
