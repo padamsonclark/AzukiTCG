@@ -100,7 +100,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "SMALL"
+                "width": "12vh"
               },
               "content": [
                 {
