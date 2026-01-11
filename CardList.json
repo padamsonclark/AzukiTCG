@@ -186,7 +186,7 @@
     ]
   },
   "AZK01-009": {
-    "id": "AKZ01-009",
+    "id": "AZK01-009",
     "isToken": false,
     "face": {
       "front": {
@@ -206,7 +206,7 @@
     ]
   },
   "AZK01-010": {
-    "id": "AKZ01-010",
+    "id": "AZK01-010",
     "isToken": false,
     "face": {
       "front": {
@@ -230,7 +230,7 @@
     ]
   },
   "AZK01-011": {
-    "id": "AKZ01-011",
+    "id": "AZK01-011",
     "isToken": false,
     "face": {
       "front": {
@@ -253,7 +253,7 @@
     ]
   },
   "AZK01-012": {
-    "id": "AKZ01-012",
+    "id": "AZK01-012",
     "isToken": false,
     "face": {
       "front": {
@@ -276,7 +276,7 @@
     "Gate Power": "1"
   },
   "AZK01-013": {
-    "id": "AKZ01-013",
+    "id": "AZK01-013",
     "isToken": false,
     "face": {
       "front": {
@@ -299,7 +299,7 @@
     "Gate Power": "1"
   },
   "AZK01-014": {
-    "id": "AKZ01-014",
+    "id": "AZK01-014",
     "isToken": false,
     "face": {
       "front": {
@@ -323,7 +323,7 @@
     "Gate Power": "2"
   },
   "AZK01-015": {
-    "id": "AKZ01-015",
+    "id": "AZK01-015",
     "isToken": false,
     "face": {
       "front": {
@@ -347,7 +347,7 @@
     "Gate Power": "1"
   },
   "AZK01-016": {
-    "id": "AKZ01-016",
+    "id": "AZK01-016",
     "isToken": false,
     "face": {
       "front": {
@@ -408,7 +408,7 @@
     "Attack": "3"
   },
   "AZK01-019": {
-    "id": "AKZ01-019",
+    "id": "AZK01-019",
     "isToken": false,
     "face": {
       "front": {
@@ -571,7 +571,7 @@
     "Gate Power": "0"
   },
   "AZK01-026": {
-    "id": "AKZ01-026`",
+    "id": "AZK01-026`",
     "isToken": false,
     "face": {
       "front": {
