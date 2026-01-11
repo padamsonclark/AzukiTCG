@@ -221,11 +221,11 @@
             "showHiddenCardInHistory": false
           },
 		  "IKZ": {
-			"title": "IKZ",
-			"isHidden": "yes",
-			"height": "MEDIUM",
-			"alignment": "DECK",
-			"displayedTitle": "Extra deck",
+            "title": "IKZ",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "DECK",
+            "displayedTitle": "Extra deck"
 		  }
         }
       }
