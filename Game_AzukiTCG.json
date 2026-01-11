@@ -54,7 +54,8 @@
           "The_Alley",
           "Leader",
           "Gate",
-          "IKZ"
+          "IKZ",
+          "padding"
         ],
         "layout": {
           "direction": "row",
@@ -99,7 +100,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "11vh"
+                "width": "SMALL"
               },
               "content": [
                 {
@@ -111,8 +112,13 @@
                 {
                   "section": "Gate",
                   "style": {
-                    "Height": "SMALL",
-                    "Margin-bottom": "SMALL"
+                    "Height": "SMALL"
+                  }
+                },
+                {
+                  "section": "padding",
+                  "style": {
+                    "opacity": "0"
                   }
                 }
               ],
@@ -345,6 +351,22 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "padding": {
+            "title": "padding",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
