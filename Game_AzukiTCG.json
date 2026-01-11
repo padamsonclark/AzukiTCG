@@ -213,6 +213,7 @@
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
+			"drawPerTurn": 1,
             "displayedTitle": "IKZ Pile"
 		  }
         }
