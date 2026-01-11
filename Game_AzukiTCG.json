@@ -125,8 +125,6 @@
           "Gate"
         ],
         "autoPlayFromHand": {
-          "Entity": "Stack",
-          "Weapon": "Stack",
           "Spell": "Stack",
           "IKZ": "Mana"
         },
