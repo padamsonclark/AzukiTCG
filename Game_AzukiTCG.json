@@ -111,14 +111,6 @@
                 {
                   "section": "Mana",
                   "style": false
-                },
-                {
-                  "section": "Deck",
-                  "style": false
-                },
-                {
-                  "section": "Discard",
-                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
