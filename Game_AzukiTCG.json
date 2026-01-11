@@ -140,6 +140,16 @@
           "IKZ": "Mana"
         },
         "sectionsDict": {
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Stack"
+		  },
           "Mana": {
             "title": "Mana",
             "isHidden": "yes",
