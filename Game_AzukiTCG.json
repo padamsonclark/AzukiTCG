@@ -107,7 +107,7 @@
                 {
                   "section": "Mana",
                   "style": {
-                    "width": "20vw"
+                    "width": "30%"
                   }
                 }
               ],
@@ -117,14 +117,14 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-		  "IKZ",
+          "IKZ",
           "Gate"
         ],
         "autoPlayFromHand": {
           "Entity": "Stack",
           "Weapon": "Stack",
           "Spell": "Stack",
-		  "IKZ": "Mana"
+          "IKZ": "Mana"
         },
         "sectionsDict": {
           "Stack": {
@@ -134,8 +134,16 @@
             "height": "HUGE",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
-            "isGroupForbidden": true
-		  },
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Mana": {
             "title": "Mana",
             "isHidden": "no",
@@ -155,7 +163,7 @@
           "The_Garden": {
             "title": "The_Garden",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -171,7 +179,7 @@
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -203,7 +211,7 @@
           "Gate": {
             "title": "Gate",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -216,14 +224,23 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-		  "IKZ": {
+          "IKZ": {
             "title": "IKZ",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
-			"drawPerTurn": 1,
-            "displayedTitle": "IKZ Pile"
-		  }
+            "drawPerTurn": 1,
+            "displayedTitle": "IKZ Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
         }
       }
     }
