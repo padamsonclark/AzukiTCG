@@ -67,13 +67,13 @@
                 {
                   "section": "The_Garden",
                   "style": {
-                    "height": "12vw"
+                    "Height": "SMALL"
                   }
                 },
                 {
                   "section": "The_Alley",
                   "style": {
-                    "height": "12vw"
+                    "Height": "SMALL"
                   }
                 },
                 {
@@ -88,9 +88,7 @@
                     },
                     {
                       "section": "Mana",
-                      "style": {
-                        "width": "30%"
-                      }
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -106,11 +104,15 @@
               "content": [
                 {
                   "section": "Leader",
-                  "style": false
+                  "style": {
+                    "Height": "SMALL"
+                  }
                 },
                 {
                   "section": "Gate",
-                  "style": false
+                  "style": {
+                    "Height": "SMALL"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
