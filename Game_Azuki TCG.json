@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "",
+    "dataUrl": "https://github.com/padamsonclark/AzukiTCG/blob/main/CardList.json",
     "cardBack": ""
   },
   "deckBuilding": {
