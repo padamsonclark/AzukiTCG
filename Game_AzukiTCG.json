@@ -1,9 +1,9 @@
 {
   "name": "Azuki TCG",
-  "menuBackgroundImage": "https://pwywekvounseunypnskt.supabase.co/storage/v1/object/public/article-images/covers/cover-1766006690175-swjo7b.jpg",
+  "menuBackgroundImage": "https://padamsonclark.github.io/AzukiTCG/Images/background.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://tcg.azuki.com/opengraph.png"
+      "https://padamsonclark.github.io/AzukiTCG/Images/playmat.png"
     ],
     "decksUrl": ""
   },
