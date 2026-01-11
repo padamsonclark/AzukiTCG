@@ -99,7 +99,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "SMALL"
+                "width": "10vh"
               },
               "content": [
                 {
