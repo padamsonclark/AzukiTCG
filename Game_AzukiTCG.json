@@ -17,9 +17,7 @@
     "mainFilters": [
       "Name",
       "Type",
-      "Element",
-      "Cost",
-      "Subtype"
+      "Element"
     ],
     "formats": [
       {
