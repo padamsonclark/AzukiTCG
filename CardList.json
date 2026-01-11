@@ -200,9 +200,6 @@
     "name": "The Red Bean",
     "type": "Spell",
     "cost": "1",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Neutral",
     "Subtype": [
       "Legendary Bean"
@@ -367,10 +364,7 @@
     "Element": "Neutral",
     "Subtype": [
       "Trickster"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-017": {
     "id": "AZK01-017",
@@ -390,10 +384,7 @@
     "Element": "Neutral",
     "Subtype": [
       "Steelborn"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-018": {
     "id": "AZK01-018",
@@ -405,13 +396,6 @@
         "cost": "4",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-018_Monk-Staff-of-Warding_W_C_die.jpg",
         "isHorizontal": false
-      },
-      "back": {
-        "name": "https://i.ibb.co/FqYxTk1N/S1-STT04-002-Ragefire-Gate-G-G-die.png",
-        "type": "",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
       }
     },
     "name": "Monk Staff of Warding",
@@ -421,9 +405,7 @@
     "Subtype": [
       "Staff"
     ],
-    "Attack": "3",
-    "Health": "",
-    "Gate Power": ""
+    "Attack": "3"
   },
   "AZK01-019": {
     "id": "AKZ01-019",
@@ -467,10 +449,7 @@
     "Subtype": [
       "Beanz",
       "JD"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-021": {
     "id": "AZK01-021",
@@ -587,9 +566,9 @@
       "Driftward",
       "Elder"
     ],
-    "Attack": 0,
+    "Attack": "0",
     "Health": "3",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-026": {
     "id": "AKZ01-026`",
@@ -694,21 +673,18 @@
       "front": {
         "name": "Aquatic Veil",
         "type": "Spell",
-        "cost": 0,
+        "cost": "0",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-029_Aquatic-Veil_S_R_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Aquatic Veil",
     "type": "Spell",
-    "cost": 0,
+    "cost": "0",
     "Element": "Water",
     "Subtype": [
       "Aquashield"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-030": {
     "id": "AZK01-030",
@@ -729,10 +705,7 @@
     "Subtype": [
       "Lotus",
       "Watercrafting"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-031": {
     "id": "AZK01-031",
@@ -752,10 +725,7 @@
     "Element": "Water",
     "Subtype": [
       "Sirencall"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-032": {
     "id": "AZK01-032",
@@ -775,10 +745,7 @@
     "Element": "Water",
     "Subtype": [
       "Watercrafting"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-033": {
     "id": "AZK01-033",
@@ -849,7 +816,7 @@
       "Statue",
       "Voltguard"
     ],
-    "Attack": 0,
+    "Attack": "0",
     "Health": "1",
     "Gate Power": "0"
   },
@@ -899,7 +866,7 @@
     ],
     "Attack": "3",
     "Health": "2",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-038": {
     "id": "AZK01-038",
@@ -946,7 +913,7 @@
     ],
     "Attack": "2",
     "Health": "3",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-040": {
     "id": "AZK01-040",
@@ -1015,10 +982,7 @@
     "Element": "Lightning",
     "Subtype": [
       "Stormcaller"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-042a": {
     "id": "AZK01-042a",
@@ -1038,10 +1002,7 @@
     "Element": "Lightning",
     "Subtype": [
       "Stormcaller"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-043": {
     "id": "AZK01-043",
@@ -1063,9 +1024,7 @@
       "Dagger",
       "Riftwalk"
     ],
-    "Attack": "1",
-    "Health": "",
-    "Gate Power": ""
+    "Attack": "1"
   },
   "AZK01-044": {
     "id": "AZK01-044",
@@ -1086,9 +1045,7 @@
     "Subtype": [
       "Shockcoil"
     ],
-    "Attack": "2",
-    "Health": "",
-    "Gate Power": ""
+    "Attack": "2"
   },
   "AZK01-045": {
     "id": "AZK01-045",
@@ -1134,7 +1091,7 @@
     ],
     "Attack": "1",
     "Health": "1",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-047": {
     "id": "AZK01-047",
@@ -1195,8 +1152,8 @@
       }
     },
     "name": "Lone Journeyman",
-    "type": "Leader",
-    "cost": 0,
+    "type": "Entity",
+    "cost": "0",
     "Element": "Earth",
     "Subtype": [
       "Earthwarden"
@@ -1335,7 +1292,7 @@
       }
     },
     "name": "Teb Fea",
-    "type": "Gate",
+    "type": "Entity",
     "cost": "8",
     "Element": "Earth",
     "Subtype": [
@@ -1364,10 +1321,7 @@
     "Subtype": [
       "Earthfury",
       "Orb"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-056": {
     "id": "AZK01-056",
@@ -1623,10 +1577,7 @@
     "Subtype": [
       "Orb",
       "Scorchweaver"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-066": {
     "id": "AZK01-066",
@@ -1646,10 +1597,7 @@
     "Element": "Fire",
     "Subtype": [
       "Scorchweaver"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-087": {
     "id": "AZK01-087",
@@ -1669,10 +1617,7 @@
     "Element": "Water",
     "Subtype": [
       "Mizuryuu"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-088": {
     "id": "AZK01-088",
@@ -1692,10 +1637,7 @@
     "Element": "Water",
     "Subtype": [
       "Watercrafting"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-089": {
     "id": "AZK01-089",
@@ -1768,7 +1710,7 @@
     ],
     "Attack": "2",
     "Health": "1",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-092": {
     "id": "AZK01-092",
@@ -1789,10 +1731,7 @@
     "Subtype": [
       "Lotus",
       "Wavecaller"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-093": {
     "id": "AZK01-093",
@@ -1838,9 +1777,7 @@
       "Dagger",
       "Shadowfang"
     ],
-    "Attack": "1",
-    "Health": "",
-    "Gate Power": ""
+    "Attack": "1"
   },
   "AZK01-095": {
     "id": "AZK01-095",
@@ -1862,9 +1799,7 @@
       "Riftwalk",
       "Sword"
     ],
-    "Attack": "3",
-    "Health": "",
-    "Gate Power": ""
+    "Attack": "3"
   },
   "AZK01-096": {
     "id": "AZK01-096",
@@ -1884,10 +1819,7 @@
     "Element": "Lightning",
     "Subtype": [
       "Voltguard"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-097": {
     "id": "AZK01-097",
@@ -1982,10 +1914,7 @@
     "Subtype": [
       "Raizan",
       "Steelborn"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-101": {
     "id": "AZK01-101",
@@ -2005,10 +1934,7 @@
     "Element": "Earth",
     "Subtype": [
       "Earthwarden"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-102": {
     "id": "AZK01-102",
@@ -2028,10 +1954,7 @@
     "Element": "Earth",
     "Subtype": [
       "Obsidian"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-103": {
     "id": "AZK01-103",
@@ -2052,7 +1975,7 @@
     "Subtype": [
       "Earthfury"
     ],
-    "Attack": 0,
+    "Attack": "0",
     "Health": "4",
     "Gate Power": "3"
   },
@@ -2134,21 +2057,18 @@
       "front": {
         "name": "Offering to Stillstone",
         "type": "Spell",
-        "cost": 0,
+        "cost": "0",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-107_Offering-to-Stillstone_S_C_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Offering to Stillstone",
     "type": "Spell",
-    "cost": 0,
+    "cost": "0",
     "Element": "Earth",
     "Subtype": [
       "Verdant"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-108": {
     "id": "AZK01-108",
@@ -2168,10 +2088,7 @@
     "Element": "Earth",
     "Subtype": [
       "Earthfury"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-109": {
     "id": "AZK01-109",
@@ -2316,7 +2233,7 @@
     ],
     "Attack": "2",
     "Health": "1",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-115": {
     "id": "AZK01-115",
@@ -2340,7 +2257,7 @@
     ],
     "Attack": "1",
     "Health": "2",
-    "Gate Power": 0
+    "Gate Power": "0"
   },
   "AZK01-116": {
     "id": "AZK01-116",
@@ -2384,10 +2301,7 @@
     "Element": "Fire",
     "Subtype": [
       "Blazerker"
-    ],
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    ]
   },
   "AZK01-118": {
     "id": "AZK01-118",
@@ -2420,19 +2334,12 @@
       "front": {
         "name": "IKZ",
         "type": "IKZ",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-IKZ-001_IKZ!_IKZ_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "IKZ",
-    "type": "IKZ",
-    "cost": "",
-    "Element": "",
-    "Subtype": false,
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    "type": "IKZ"
   },
   "IKZ-001a": {
     "id": "IKZ-001a",
@@ -2441,19 +2348,12 @@
       "front": {
         "name": "IKZ",
         "type": "IKZ",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/IKZ-001A_IKZ!_IKZ_Die.jpg",
         "isHorizontal": false
       }
     },
     "name": "IKZ",
-    "type": "IKZ",
-    "cost": "",
-    "Element": "",
-    "Subtype": false,
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    "type": "IKZ"
   },
   "IKZ-002": {
     "id": "IKZ-002",
@@ -2462,19 +2362,12 @@
       "front": {
         "name": "IKZ Token",
         "type": "IKZ",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-IKZ-002_IKZ!_IKZ-Token_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "IKZ Token",
-    "type": "IKZ",
-    "cost": "",
-    "Element": "",
-    "Subtype": false,
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    "type": "IKZ"
   },
   "IKZ-002a": {
     "id": "IKZ-002a",
@@ -2483,19 +2376,12 @@
       "front": {
         "name": "IKZ Token",
         "type": "IKZ",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/IKZ-002A_IKZ!_IKZ-Token_Die.jpg",
         "isHorizontal": false
       }
     },
     "name": "IKZ Token",
-    "type": "IKZ",
-    "cost": "",
-    "Element": "",
-    "Subtype": false,
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    "type": "IKZ"
   },
   "AZP-001": {
     "id": "AZP-001",
@@ -2504,19 +2390,12 @@
       "front": {
         "name": "IKZ Token",
         "type": "IKZ",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/AZP-001_IKZ!_IKZ-Token-AX-Participation_Die.jpg",
         "isHorizontal": false
       }
     },
     "name": "IKZ Token",
-    "type": "IKZ",
-    "cost": "",
-    "Element": "",
-    "Subtype": false,
-    "Attack": "",
-    "Health": "",
-    "Gate Power": ""
+    "type": "IKZ"
   },
   "STT01-001": {
     "id": "STT01-001",
@@ -2525,17 +2404,13 @@
       "front": {
         "name": "Raizan",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-001_Raizan_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Raizan, Leader",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "20",
-    "Gate Power": "",
+
     "Element": "Lightning",
     "Subtype": [
       "Raizan"
@@ -2548,17 +2423,13 @@
       "front": {
         "name": "Raizan",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT01-001A_Raizan_L_AA_Die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Raizan, Leader",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "20",
-    "Gate Power": "",
+
     "Element": "Lightning",
     "Subtype": [
       "Raizan"
@@ -2571,17 +2442,12 @@
       "front": {
         "name": "Surge Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT01-002_Surge-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Surge Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Gate"
@@ -2594,17 +2460,12 @@
       "front": {
         "name": "Surge Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT01-002A_Surge-Gate_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Surge Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Gate"
@@ -2864,8 +2725,6 @@
     "type": "Weapon",
     "cost": "1",
     "Attack": "1",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Neutral",
     "Subtype": [
       "Shadowfang",
@@ -2888,8 +2747,6 @@
     "type": "Weapon",
     "cost": "1",
     "Attack": "1",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Neutral",
     "Subtype": [
       "Black Jade",
@@ -2912,8 +2769,6 @@
     "type": "Weapon",
     "cost": "2",
     "Attack": "2",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Neutral",
     "Subtype": [
       "Sword"
@@ -2935,8 +2790,6 @@
     "type": "Weapon",
     "cost": "3",
     "Attack": "3",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Neutral",
     "Subtype": [
       "Sword"
@@ -2958,8 +2811,6 @@
     "type": "Weapon",
     "cost": "4",
     "Attack": "4",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Raizan",
@@ -2982,8 +2833,6 @@
     "type": "Weapon",
     "cost": "4",
     "Attack": "4",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Raizen",
@@ -3005,9 +2854,6 @@
     "name": "Lightning Orb",
     "type": "Spell",
     "cost": "1",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Orb",
@@ -3021,17 +2867,12 @@
       "front": {
         "name": "Shao",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-001_Shao_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Shao, Leader",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "20",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Shao"
@@ -3044,17 +2885,12 @@
       "front": {
         "name": "Shao",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT02-001A_Shao_L_AA_Die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Shao, Leader",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "20",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Shao"
@@ -3067,17 +2903,12 @@
       "front": {
         "name": "Hydromancy Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT02-002_Hydromancy-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Hydromancy Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Gate"
@@ -3090,17 +2921,12 @@
       "front": {
         "name": "Hydromancy Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/STT02-002A_Hydromancy-Gate_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Hydromancy Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Gate"
@@ -3404,9 +3230,6 @@
     "name": "Chilling Water",
     "type": "Spell",
     "cost": "1",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Subzero",
@@ -3428,9 +3251,6 @@
     "name": "Commune with Water",
     "type": "Spell",
     "cost": "2",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Watercrafting"
@@ -3451,9 +3271,6 @@
     "name": "Water Orb",
     "type": "Spell",
     "cost": "1",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Orb",
@@ -3475,9 +3292,6 @@
     "name": "Shao's Perseverance",
     "type": "Spell",
     "cost": "6",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Shao",
@@ -3499,9 +3313,6 @@
     "name": "Shao's Perseverance",
     "type": "Spell",
     "cost": "6",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Watercrafting",
@@ -3515,17 +3326,13 @@
       "front": {
         "name": "Bobu",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-001_Bobu_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Bobu, Leader",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "20",
-    "Gate Power": "",
+
     "Element": "Earth",
     "Subtype": [
       "Bobu",
@@ -3540,17 +3347,12 @@
       "front": {
         "name": "Stonehaven Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT03-002_Stonehaven-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Stonehaven Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Gate"
@@ -3858,9 +3660,6 @@
     "name": "Jar of Beans",
     "type": "Spell",
     "cost": "4",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Stonemend"
@@ -3881,9 +3680,6 @@
     "name": "Quicksand",
     "type": "Spell",
     "cost": "5",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Earthfury"
@@ -3904,9 +3700,6 @@
     "name": "Sprout of Fortune",
     "type": "Spell",
     "cost": "3",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Verdant"
@@ -3919,17 +3712,12 @@
       "front": {
         "name": "Zero",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-001_Zero_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Zero, Leader",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "20",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Black Jade",
@@ -3943,17 +3731,12 @@
       "front": {
         "name": "Ragefire Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-STT04-002_Ragefire-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Ragefire Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Gate"
@@ -4259,9 +4042,6 @@
     "name": "Detonation Pact",
     "type": "Spell",
     "cost": "1",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Scorchweaver"
@@ -4282,9 +4062,6 @@
     "name": "Collateral Burst",
     "type": "Spell",
     "cost": "2",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Pyreskin",
@@ -4306,9 +4083,6 @@
     "name": "Wrath of Sinder",
     "type": "Spell",
     "cost": "3",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Blazerker"
