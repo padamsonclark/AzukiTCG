@@ -2725,7 +2725,7 @@
     "type": "Weapon",
     "cost": "1",
     "Attack": "1",
-    "Element": "Neutral",
+    "Element": "Lightning",
     "Subtype": [
       "Shadowfang",
       "Shuriken"
