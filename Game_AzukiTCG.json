@@ -63,6 +63,44 @@
           "content": [
             {
               "direction": "column",
+              "style": {
+                "width": "10vh"
+              },
+              "content": [
+                {
+                  "section": "padding1",
+                  "style": {
+                    "Height": "SMALL"
+                  }
+                },
+                {
+                  "section": "padding2",
+                  "style": {
+                    "Height": "SMALL"
+                  }
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "IKZ",
+                      "style": {
+                        "width": "10vh"
+                      }
+                    },
+                    {
+                      "section": "Mana",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
               "style": false,
               "content": [
                 {
@@ -76,23 +114,6 @@
                   "style": {
                     "Height": "SMALL"
                   }
-                },
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "IKZ",
-                      "style": {
-                        "width": "SMALL"
-                      }
-                    },
-                    {
-                      "section": "Mana",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -116,11 +137,8 @@
                   }
                 },
                 {
-                  "section": "padding",
-                  "style": {
-                    "Height": "SMALL",
-                    "opacity": "0"
-                  }
+                  "section": "padding3",
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
