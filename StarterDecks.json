@@ -101,5 +101,111 @@
   "title": "Water Starter",
   "lastModifiedAt": "2026-01-11T16:24:48.216Z",
   "cardCount": 62
+},
+  {
+  "title": "Starter Lightning",
+  "id": "349b1d79-0ff1-407c-b003-5d385c3a4b8d",
+  "game": "Azuki TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 62,
+  "createdAt": "2026-01-12T00:38:59.291Z",
+  "lastModifiedAt": "2026-01-12T00:39:57.298Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Leader",
+      "Gate",
+      "Weapon",
+      "Entity",
+      "Spell",
+      "IKZ"
+    ],
+    "Sideboard": [],
+    "Leader": [
+      {
+        "count": 1,
+        "id": "STT01-001"
+      }
+    ],
+    "Gate": [
+      {
+        "count": 1,
+        "id": "STT01-002"
+      }
+    ],
+    "Weapon": [
+      {
+        "count": 4,
+        "id": "STT01-013"
+      },
+      {
+        "count": 4,
+        "id": "STT01-012"
+      },
+      {
+        "count": 4,
+        "id": "STT01-014"
+      },
+      {
+        "count": 2,
+        "id": "STT01-015"
+      },
+      {
+        "count": 2,
+        "id": "STT01-016"
+      }
+    ],
+    "Entity": [
+      {
+        "count": 4,
+        "id": "STT01-004"
+      },
+      {
+        "count": 4,
+        "id": "STT01-003"
+      },
+      {
+        "count": 4,
+        "id": "STT01-007"
+      },
+      {
+        "count": 4,
+        "id": "STT01-005"
+      },
+      {
+        "count": 2,
+        "id": "STT01-006"
+      },
+      {
+        "count": 4,
+        "id": "STT01-008"
+      },
+      {
+        "count": 4,
+        "id": "STT01-009"
+      },
+      {
+        "count": 2,
+        "id": "STT01-010"
+      },
+      {
+        "count": 2,
+        "id": "STT01-011"
+      }
+    ],
+    "Spell": [
+      {
+        "count": 4,
+        "id": "STT01-017"
+      }
+    ],
+    "IKZ": [
+      {
+        "count": 10,
+        "id": "IKZ-001"
+      }
+    ]
+  }
 }
 ]
