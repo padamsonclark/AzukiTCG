@@ -399,7 +399,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          }
+          },
             "padding2": {
             "title": "padding2",
             "isHidden": "no",
@@ -415,7 +415,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          }
+          },
             "padding3": {
             "title": "padding3",
             "isHidden": "no",
