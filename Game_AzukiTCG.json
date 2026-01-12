@@ -66,39 +66,26 @@
             {
               "direction": "column",
               "style": {
-                "width": "10vh"
+                "width": "11vh"
               },
               "content": [
                 {
-                  "section": "padding1",
+                  "section": "Leader",
                   "style": {
-                    "Height": "SMALL",
-                    "opacity": "0"
+                    "Height": "SMALL"
                   }
                 },
                 {
-                  "section": "padding2",
+                  "section": "Gate",
                   "style": {
-                    "Height": "SMALL",
-                    "opacity": "0"
+                    "Height": "SMALL"
                   }
                 },
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "IKZ",
-                      "style": {
-                        "width": "10vh"
-                      }
-                    },
-                    {
-                      "section": "Mana",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "IKZ",
+                  "style": {
+                    "Height": "SMALL"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -118,6 +105,12 @@
                   "style": {
                     "Height": "SMALL"
                   }
+                },
+                {
+                  "section": "Mana",
+                  "style": {
+                    "Height": "SMALL"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -125,19 +118,21 @@
             {
               "direction": "column",
               "style": {
-                "width": "10vh"
+                "width": "11vh"
               },
               "content": [
                 {
-                  "section": "Leader",
+                  "section": "padding1",
                   "style": {
-                    "Height": "SMALL"
+                    "Height": "SMALL",
+                    "opacity": "0"
                   }
                 },
                 {
-                  "section": "Gate",
+                  "section": "padding2",
                   "style": {
-                    "Height": "SMALL"
+                    "Height": "SMALL",
+                    "opacity": "0"
                   }
                 },
                 {
@@ -400,7 +395,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "padding2": {
+          "padding2": {
             "title": "padding2",
             "isHidden": "no",
             "height": "SMALL",
@@ -416,7 +411,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "padding3": {
+          "padding3": {
             "title": "padding3",
             "isHidden": "no",
             "height": "SMALL",
