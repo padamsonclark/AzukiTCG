@@ -55,7 +55,9 @@
           "Leader",
           "Gate",
           "IKZ",
-          "padding"
+          "padding1",
+          "padding2",
+          "padding3"
         ],
         "layout": {
           "direction": "row",
@@ -70,13 +72,15 @@
                 {
                   "section": "padding1",
                   "style": {
-                    "Height": "SMALL"
+                    "Height": "SMALL",
+                    "opacity": "0"
                   }
                 },
                 {
                   "section": "padding2",
                   "style": {
-                    "Height": "SMALL"
+                    "Height": "SMALL",
+                    "opacity": "0"
                   }
                 },
                 {
@@ -138,7 +142,10 @@
                 },
                 {
                   "section": "padding3",
-                  "style": false
+                  "style": {
+                    "Height": "SMALL",
+                    "opacity": "0"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -377,8 +384,40 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "padding": {
-            "title": "padding",
+          "padding1": {
+            "title": "padding1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+            "padding2": {
+            "title": "padding2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+            "padding3": {
+            "title": "padding3",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
