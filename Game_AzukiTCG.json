@@ -7,8 +7,7 @@
       "https://padamsonclark.github.io/AzukiTCG/Images/a-girl-and-her-skateboard-adventures.jpg",
       "https://padamsonclark.github.io/AzukiTCG/Images/azuki-kq.jpg",
       "https://padamsonclark.github.io/AzukiTCG/Images/couple-adventure-in-the-corvette.jpg",
-      "https://padamsonclark.github.io/AzukiTCG/Images/guardian-of-the-cyber-city.jpg",
-      "https://padamsonclark.github.io/AzukiTCG/Images/yuki.jpg"
+      "https://padamsonclark.github.io/AzukiTCG/Images/guardian-of-the-cyber-city.jpg"
     ],
     "decksUrl": "https://padamsonclark.github.io/AzukiTCG/StarterDecks.json"
   },
@@ -59,10 +58,7 @@
           "The_Alley",
           "Leader",
           "Gate",
-          "IKZ",
-          "padding1",
-          "padding2",
-          "padding3"
+          "IKZ"
         ],
         "layout": {
           "direction": "row",
@@ -72,7 +68,7 @@
               "direction": "column",
               "style": {
                 "width": "11vh",
-                "margin-left": "12vh"
+                "margin-left": "11vh"
               },
               "content": [
                 {
@@ -98,7 +94,9 @@
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "margin-right": "22vh"
+              },
               "content": [
                 {
                   "section": "The_Garden",
@@ -116,37 +114,6 @@
                   "section": "Mana",
                   "style": {
                     "Height": "SMALL"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": {
-                "width": "11vh",
-                "margin-right": "12vh"
-              },
-              "content": [
-                {
-                  "section": "padding1",
-                  "style": {
-                    "Height": "SMALL",
-                    "opacity": "0"
-                  }
-                },
-                {
-                  "section": "padding2",
-                  "style": {
-                    "Height": "SMALL",
-                    "opacity": "0"
-                  }
-                },
-                {
-                  "section": "padding3",
-                  "style": {
-                    "Height": "SMALL",
-                    "opacity": "0"
                   }
                 }
               ],
@@ -379,54 +346,6 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "padding1": {
-            "title": "padding1",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "padding2": {
-            "title": "padding2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "padding3": {
-            "title": "padding3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
