@@ -3,7 +3,11 @@
   "menuBackgroundImage": "https://padamsonclark.github.io/AzukiTCG/Images/background.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://padamsonclark.github.io/AzukiTCG/Images/playmat.png"
+      "https://padamsonclark.github.io/AzukiTCG/Images/playmat.png",
+      "https://padamsonclark.github.io/AzukiTCG/Images/a-girl-and-her-skateboard-adventures.jpg",
+      "https://padamsonclark.github.io/AzukiTCG/Images/azuki-kq.jpg",
+      "https://padamsonclark.github.io/AzukiTCG/Images/couple-adventure-in-the-corvette.jpg",
+      "https://padamsonclark.github.io/AzukiTCG/Images/guardian-of-the-cyber-city.jpg"
     ],
     "decksUrl": "https://padamsonclark.github.io/AzukiTCG/StarterDecks.json"
   },
