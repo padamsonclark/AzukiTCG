@@ -2013,9 +2013,6 @@
 	"name": "Good Enough Replica",
 	"type": "Spell",
 	"cost": "2",
-	"Attack": "",
-	"Health": "",
-	"Gate Power": "",
 	"Element": "Neutral",
 	"Subtype": [
 	  "Trickster"
@@ -2036,9 +2033,6 @@
 	"name": "Invigorating Concoction",
 	"type": "Spell",
 	"cost": "3",
-	"Attack": "",
-	"Health": "",
-	"Gate Power": "",
 	"Element": "Neutral",
 	"Subtype": [
 	  "Beanz",
@@ -2060,9 +2054,6 @@
 	"name": "Forging Tricks",
 	"type": "Spell",
 	"cost": "4",
-	"Attack": "",
-	"Health": "",
-	"Gate Power": "",
 	"Element": "Neutral",
 	"Subtype": [
 	  "Steelborn",
@@ -2614,7 +2605,7 @@
     "face": {
       "front": {
         "name": "Black Jade Decoy",
-        "type": "Gate",
+        "type": "Entity",
         "cost": "3",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-111_Black-Jade-Decoy_E_R_die.jpg",
         "isHorizontal": false
@@ -2804,17 +2795,12 @@
       "front": {
         "name": "Piko of Thousand Blades",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-119_Piko-of-Thousand-Blades_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Piko of Thousand Blades",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Cat",
@@ -2828,17 +2814,12 @@
       "front": {
         "name": "Stormchain Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-120_Stormchain-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Stormchain Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Lightning",
     "Subtype": [
       "Gate"
@@ -2851,17 +2832,12 @@
       "front": {
         "name": "Kagoro of the Burnt Path",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-121_Kagoro-of-the-Burnt-Path_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Kagoro of the Burnt Path",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Loneflame",
@@ -2875,17 +2851,12 @@
       "front": {
         "name": "Rushfire Gate",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-122_Rushfire-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Rushfire Gate",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Fire",
     "Subtype": [
       "Gate"
@@ -2898,17 +2869,12 @@
       "front": {
         "name": "Goro Graveloth",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-123_Goro-Graveloth_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Goro Graveloth",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Obsidian",
@@ -2922,17 +2888,12 @@
       "front": {
         "name": "Gate of Devotion",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-124_Gate-of-Devotion-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gate of Devotion",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Gate"
@@ -2945,17 +2906,12 @@
       "front": {
         "name": "Benzai the Sly",
         "type": "Leader",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-125_Benzai-the-Sly_L_L_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Benzai the Sly",
     "type": "Leader",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Frog",
@@ -2970,17 +2926,12 @@
       "front": {
         "name": "Gate of Echoed Waves",
         "type": "Gate",
-        "cost": "",
         "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-126_Gate-of-Echoed-Waves-Gate_G_G_die.jpg",
         "isHorizontal": false
       }
     },
     "name": "Gate of Echoed Waves",
     "type": "Gate",
-    "cost": "",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Water",
     "Subtype": [
       "Gate"
@@ -3001,9 +2952,6 @@
     "name": "Sundering Strike",
     "type": "Spell",
     "cost": "1",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Neutral",
     "Subtype": [
       "Samurai"
@@ -3024,9 +2972,6 @@
     "name": "Wrong Step",
     "type": "Spell",
     "cost": "2",
-    "Attack": "",
-    "Health": "",
-    "Gate Power": "",
     "Element": "Earth",
     "Subtype": [
       "Earthfury",
