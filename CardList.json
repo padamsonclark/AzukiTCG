@@ -1599,6 +1599,476 @@
       "Scorchweaver"
     ]
   },
+	"AZK01-067": {
+	"id": "AZK01-067",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Frida",
+		"type": "Entity",
+		"cost": "1",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-067_Frida_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Frida",
+	"type": false,
+	"cost": "1",
+	"Attack": "1",
+	"Health": "1",
+	"Gate Power": "1",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz",
+	  "Painter"
+	]
+	},
+	"AZK01-068": {
+	"id": "AZK01-068",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Pip",
+		"type": "Entity",
+		"cost": "1",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-068_Pip_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Pip",
+	"type": "Entity",
+	"cost": "1",
+	"Attack": "1",
+	"Health": "1",
+	"Gate Power": "0",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz"
+	]
+	},
+	"AZK01-069": {
+	"id": "AZK01-069",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Link",
+		"type": "Entity",
+		"cost": "1",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-069_Link_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Link",
+	"type": "Entity",
+	"cost": "1",
+	"Attack": "1",
+	"Health": "1",
+	"Gate Power": "0",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz"
+	]
+	},
+	"AZK01-070": {
+	"id": "AZK01-070",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Mocking Dummy",
+		"type": "Entity",
+		"cost": "1",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-070_Mocking-Dummy_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Mocking Dummy",
+	"type": "Entity",
+	"cost": "1",
+	"Attack": "0",
+	"Health": "2",
+	"Gate Power": "0",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Training Dummy"
+	]
+	},
+	"AZK01-071": {
+	"id": "AZK01-071",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Alley Fetchduck",
+		"type": "Entity",
+		"cost": "2",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-071_Alley-Fetchduck_E_UC_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Alley Fetchduck",
+	"type": "Entity",
+	"cost": "2",
+	"Attack": "1",
+	"Health": "2",
+	"Gate Power": "0",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Bird"
+	]
+	},
+	"AZK01-072": {
+	"id": "AZK01-072",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Beanz Mentor",
+		"type": "Entity",
+		"cost": "2",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-072_Beanz-Mentor_E_R_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Beanz Mentor",
+	"type": "Entity",
+	"cost": "2",
+	"Attack": "1",
+	"Health": "1",
+	"Gate Power": "1",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz",
+	  "Elder"
+	]
+	},
+	"AZK01-073": {
+	"id": "AZK01-073",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Top Beanz",
+		"type": "Entity",
+		"cost": "3",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-073_Top-Beanz_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Top Beanz",
+	"type": "Entity",
+	"cost": "3",
+	"Attack": "1",
+	"Health": "1",
+	"Gate Power": "2",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz"
+	]
+	},
+	"AZK01-074": {
+	"id": "AZK01-074",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Gurugumi Vanguard",
+		"type": "Entity",
+		"cost": "2",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-074_Gurugumi-Vanguard_E_UC_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Gurugumi Vanguard",
+	"type": "Entity",
+	"cost": "2",
+	"Attack": "0",
+	"Health": "2",
+	"Gate Power": "0",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Gurijutsu"
+	]
+	},
+	"AZK01-075": {
+	"id": "AZK01-075",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Drunken Brewmaster",
+		"type": "Entity",
+		"cost": "4",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-075_Drunken-Brewmaster_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Drunken Brewmaster",
+	"type": "Entity",
+	"cost": "4",
+	"Attack": "2",
+	"Health": "2",
+	"Gate Power": "1",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Brewmaster",
+	  "Elder"
+	]
+	},
+	"AZK01-076": {
+	"id": "AZK01-076",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Hōren of Two Paths",
+		"type": "Entity",
+		"cost": "3",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-076_Horen-of-Two-Paths_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Hōren of Two Paths",
+	"type": "Entity",
+	"cost": "3",
+	"Attack": "1",
+	"Health": "2",
+	"Gate Power": "1",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Fatedealer",
+	  "Monk"
+	]
+	},
+	"AZK01-077": {
+	"id": "AZK01-077",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Stalking Assassin",
+		"type": "Entity",
+		"cost": "3",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-077_Stalking-Assassin_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Stalking Assassin",
+	"type": "Entity",
+	"cost": "3",
+	"Attack": "2",
+	"Health": "2",
+	"Gate Power": "2",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Assassin",
+	  "Steelborn"
+	]
+	},
+	"AZK01-078": {
+	"id": "AZK01-078",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Fermented Beanz",
+		"type": "Entity",
+		"cost": "4",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-078_Fermented-Beanz_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Fermented Beanz",
+	"type": "Entity",
+	"cost": "4",
+	"Attack": "2",
+	"Health": "2",
+	"Gate Power": "2",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz"
+	]
+	},
+	"AZK01-079": {
+	"id": "AZK01-079",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Gin and Tonika",
+		"type": "Entity",
+		"cost": "6",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-079_Gin-and-Tonika_E_SR_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Gin and Tonika",
+	"type": "Entity",
+	"cost": "6",
+	"Attack": "3",
+	"Health": "4",
+	"Gate Power": "3",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Fatedealer"
+	]
+	},
+	"AZK01-080": {
+	"id": "AZK01-080",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Bladebound Ally",
+		"type": "Entity",
+		"cost": "5",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-080_Bladebound-Ally_E_R_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Bladebound Ally",
+	"type": "Entity",
+	"cost": "5",
+	"Attack": "3",
+	"Health": "2",
+	"Gate Power": "3",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Invigorate",
+	  "Samurai"
+	]
+	},
+	"AZK01-081": {
+	"id": "AZK01-081",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Gurugumi Mentor",
+		"type": "Entity",
+		"cost": "5",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-081_Gurugumi-Mentor_E_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Gurugumi Mentor",
+	"type": "Entity",
+	"cost": "5",
+	"Attack": "3",
+	"Health": "3",
+	"Gate Power": "2",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Gurijutsu"
+	]
+	},
+	"AZK01-082": {
+	"id": "AZK01-082",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Black Jade Brawler",
+		"type": "Entity",
+		"cost": "5",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-082_Black-Jade-Brawler_E_UC_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Black Jade Brawler",
+	"type": "Entity",
+	"cost": "5",
+	"Attack": "3",
+	"Health": "2",
+	"Gate Power": "2",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Black Jade",
+	  "Brawler",
+	  "Steelborn"
+	]
+	},
+	"AZK01-083": {
+	"id": "AZK01-083",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Gurugumi Imitator",
+		"type": "Entity",
+		"cost": "4",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-083_Gurugumi-Imitator_E_R_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Gurugumi Imitator",
+	"type": "Entity",
+	"cost": "4",
+	"Attack": "2",
+	"Health": "2",
+	"Gate Power": "1",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Gurijutsu"
+	]
+	},
+	"AZK01-084": {
+	"id": "AZK01-084",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Good Enough Replica",
+		"type": "Spell",
+		"cost": "2",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-084_Good-Enough-Replica_S_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Good Enough Replica",
+	"type": "Spell",
+	"cost": "2",
+	"Attack": "",
+	"Health": "",
+	"Gate Power": "",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Trickster"
+	]
+	},
+	"AZK01-085": {
+	"id": "AZK01-085",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Invigorating Concoction",
+		"type": "Spell",
+		"cost": "3",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-085_Invigorating-Concoction_S_C_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Invigorating Concoction",
+	"type": "Spell",
+	"cost": "3",
+	"Attack": "",
+	"Health": "",
+	"Gate Power": "",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Beanz",
+	  "Invigorate"
+	]
+	},
+	"AZK01-086": {
+	"id": "AZK01-086",
+	"isToken": false,
+	"face": {
+	  "front": {
+		"name": "Forging Tricks",
+		"type": "Spell",
+		"cost": "4",
+		"image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-086_Forging-Tricks_S_UC_die.jpg",
+		"isHorizontal": false
+	  }
+	},
+	"name": "Forging Tricks",
+	"type": "Spell",
+	"cost": "4",
+	"Attack": "",
+	"Health": "",
+	"Gate Power": "",
+	"Element": "Neutral",
+	"Subtype": [
+	  "Steelborn",
+	  "Trickster"
+	]
+  },
   "AZK01-087": {
     "id": "AZK01-087",
     "isToken": false,
@@ -2327,6 +2797,267 @@
     "Health": "2",
     "Gate Power": "2"
   },
+    "AZK01-119": {
+    "id": "AZK01-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piko of Thousand Blades",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-119_Piko-of-Thousand-Blades_L_L_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piko of Thousand Blades",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Cat",
+      "Steelborn"
+    ]
+  },
+  "AZK01-120": {
+    "id": "AZK01-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stormchain Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-120_Stormchain-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stormchain Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Lightning",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "AZK01-121": {
+    "id": "AZK01-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kagoro of the Burnt Path",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-121_Kagoro-of-the-Burnt-Path_L_L_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kagoro of the Burnt Path",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Loneflame",
+      "Red Panda"
+    ]
+  },
+  "AZK01-122": {
+    "id": "AZK01-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rushfire Gate",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-122_Rushfire-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rushfire Gate",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Fire",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "AZK01-123": {
+    "id": "AZK01-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goro Graveloth",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-123_Goro-Graveloth_L_L_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goro Graveloth",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Obsidian",
+      "Sloth"
+    ]
+  },
+  "AZK01-124": {
+    "id": "AZK01-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gate of Devotion",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-124_Gate-of-Devotion-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gate of Devotion",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "AZK01-125": {
+    "id": "AZK01-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Benzai the Sly",
+        "type": "Leader",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-125_Benzai-the-Sly_L_L_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Benzai the Sly",
+    "type": "Leader",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Frog",
+      "Merchant",
+      "Watercrafting"
+    ]
+  },
+  "AZK01-126": {
+    "id": "AZK01-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gate of Echoed Waves",
+        "type": "Gate",
+        "cost": "",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-126_Gate-of-Echoed-Waves-Gate_G_G_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gate of Echoed Waves",
+    "type": "Gate",
+    "cost": "",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Water",
+    "Subtype": [
+      "Gate"
+    ]
+  },
+  "AZK01-127": {
+    "id": "AZK01-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sundering Strike",
+        "type": "Spell",
+        "cost": "1",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-127_Sundering-Strike_S_UC_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sundering Strike",
+    "type": "Spell",
+    "cost": "1",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Neutral",
+    "Subtype": [
+      "Samurai"
+    ]
+  },
+  "AZK01-128": {
+    "id": "AZK01-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wrong Step",
+        "type": "Spell",
+        "cost": "2",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-128_Wrong-Step_S_UC_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wrong Step",
+    "type": "Spell",
+    "cost": "2",
+    "Attack": "",
+    "Health": "",
+    "Gate Power": "",
+    "Element": "Earth",
+    "Subtype": [
+      "Earthfury",
+      "Obsidian"
+    ]
+  },
+  "AZK01-129": {
+    "id": "AZK01-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Silk Tongue Veyla",
+        "type": "Entity",
+        "cost": "5",
+        "image": "https://static-content.azuki.com/tcg/card_art/S1-AZK01-129_Silk-Tongue-Velya_E_UC_die.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silk Tongue Veyla",
+    "type": "Entity",
+    "cost": "5",
+    "Attack": "1",
+    "Health": "4",
+    "Gate Power": "1",
+    "Element": "Fire",
+    "Subtype": [
+      "Black Jade",
+      "Pyreskin",
+      "Wildfire"
+    ]
+  },
   "IKZ-001": {
     "id": "IKZ-001",
     "isToken": false,
@@ -2410,7 +3141,6 @@
     },
     "name": "Raizan, Leader",
     "type": "Leader",
-
     "Element": "Lightning",
     "Subtype": [
       "Raizan"
@@ -2429,7 +3159,6 @@
     },
     "name": "Raizan, Leader",
     "type": "Leader",
-
     "Element": "Lightning",
     "Subtype": [
       "Raizan"
@@ -3492,7 +4221,7 @@
     "cost": "3",
     "Attack": "2",
     "Health": "2",
-    "Gate Power": "2",
+    "Gate Power": "1",
     "Element": "Neutral",
     "Subtype": [
       "Strider"
@@ -3515,7 +4244,7 @@
     "cost": "4",
     "Attack": "0",
     "Health": "2",
-    "Gate Power": "0",
+    "Gate Power": "2",
     "Element": "Earth",
     "Subtype": [
       "Earthwarden",
