@@ -33,9 +33,8 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
-        "startingHandSize": 7,
-        "drawNewHand": true
+        "info": "If you do not like your hand you can send all the cards in your hand to the bottom of the deck and draw a new hand before shuffling.",
+        "startingHandSize": 7
       },
       "newTurn": {
         "drawOnStart": false,
