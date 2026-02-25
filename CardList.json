@@ -1612,7 +1612,7 @@
 	  }
 	},
 	"name": "Frida",
-	"type": false,
+	"type": "Entity",
 	"cost": "1",
 	"Attack": "1",
 	"Health": "1",
