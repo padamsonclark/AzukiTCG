@@ -76,8 +76,7 @@
                 {
                   "section": "IKZ"
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             },
             {
               "direction": "column",
@@ -94,8 +93,7 @@
                 {
                   "section": "Mana"
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             }
           ]
         },
