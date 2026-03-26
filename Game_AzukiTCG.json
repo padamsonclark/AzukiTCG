@@ -34,8 +34,7 @@
     "Classic": {
       "mulligan": {
         "info": "If you do not like your opening hand, you can send all the cards to the bottom of the deck and draw a new hand before shuffling.",
-        "startingHandSize": 7,
-        "drawNewHand": true
+        "startingHandSize": 7
       },
       "newTurn": {
         "drawOnStart": false,
