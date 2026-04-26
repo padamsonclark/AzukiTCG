@@ -33,9 +33,25 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "If you do not like your opening hand, you can send all the cards to the bottom of the deck and draw a new hand before shuffling.",
-        "startingHandSize": 7
-      },
+        "startingHandSize": 7,
+        "mulliganCount": {
+        "min": 0,
+        "max": 1 
+        },
+        "mulliganCycle": {
+          "info": "If you do not like your opening hand, you can send all the cards to the bottom of the deck and draw a new hand before shuffling.",
+          "steps":
+          [
+            "toBottom",
+            "draw",
+            "shuffle" 
+          ],
+          "selectionRange": {
+            "min": 0,
+            "max": 10 
+          }
+        }
+      }
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
