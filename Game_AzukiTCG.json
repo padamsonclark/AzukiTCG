@@ -40,7 +40,7 @@
         "mulliganCycle":{
           "info": "If you do not like your opening hand, you can send all the cards to the bottom of the deck and draw a new hand before shuffling.",
           "selectionRange": {
-            "min": 6
+            "min": 7
           },
           "steps": [
             "toBottom",
